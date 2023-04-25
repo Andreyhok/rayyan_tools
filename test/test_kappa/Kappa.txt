@@ -1,0 +1,19 @@
+
+Script report:
+
+Percent overall agreement = 85.08%
+Free-marginal kappa = 0.78
+95% CI for free-marginal kappa = [0.72,0.83]
+
+Percent overall agreement = 85.08%
+Fixed-marginal kappa = 0.55
+95% CI for fixed-marginal kappa = [0.43,0.68]
+
+
+Online Kappa Calculator (http://justusrandolph.net/kappa/) report:
+
+Percent overall agreement = 85.08%
+Free-marginal kappa = 0.78
+95% CI for free-marginal kappa [0.72, 0.83]
+Fixed-marginal kappa = 0.55
+95% CI for fixed-marginal kappa [0.43, 0.68]

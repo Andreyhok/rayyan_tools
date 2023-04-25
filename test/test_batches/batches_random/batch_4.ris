@@ -1,0 +1,1708 @@
+TY  - JOUR
+AN  - rayyan-986591430
+TI  - A study of Acalabrutinib alone, or in combination with Rituximab and Lenalidomide for subjects with B-cell Non Hodgkin Lymphoma
+Y1  - 2021
+AU  - No
+AU  - Acerta Pharma Bv
+AU  - EUCTR2019-000111-84-IT
+UR  - https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000111-84
+CY  - ACE-LY-003 Clinical Team <Contact_Lastname/>     Kloosterstraat 9     ace-ly-003@acerta-pharma.com     5912816 </Contact_Tel>     Acerta Pharma BV     Acerta Pharma BV <Ethics_review_status>Approved </Ethics_review_status> <Ethics_review_approval_date>22/01/2020 </Ethics_review_approval_date> <Ethics_review_contact_name/> <Ethics_review_contact_address/> <Ethics_review_contact_phone/> <Ethics_review_contact_email/> <results_url_link/> </Trial>
+KW  - Hodgkin Disease
+KW  - Lymphoma, Non-Hodgkin
+AB  - Inclusion criteria: Part 1 1. Men and women = 18 years of age. 2. Relapsed/Refractory Cohort 3. Presence of radiographically measurable lymphadenopathy or extranodal lymphoid malignancy 4. Eastern Cooperative Oncology Group (ECOG) performance status of = 2. 5. Agreement to use highly effective forms of contraception 6. Men must agree to refrain from sperm donation during the study and for 12 months after the last dose of rituximab. Part 2 1. Men and women = 18 years of age. 2. Histologically confirmed MZL including splenic, nodal, and extranodal sub-types 3. Previous therapy 4. Presence of radiographically measurable lymphadenopathy or extranodal lymphoid malignancy. 5. ECOG performance status of = 2. 6. Women must agree to use highly effective methods of contraception during the study and for 2 days after the last dose of acalabrutinib or 12 months after the last dose of rituximab, whichever is longer, if sexually active and able to bear or beget children. Highly effective methods of contraception are defined in Section 3.6.6. Part 3 and Part 4 1. Men and women = 18 years of age 2. For subjects with FL: Pathologically confirmed diagnosis of FL Grade 1, 2, or 3a, which has relapsed after, or been refractory to = 1 prior therapy for FL and which requires treatment per National Cancer Institute or ESMO clinical practice guidelines. 3. For subjects with non-GCB DLBCL: Pathologically confirmed de novo non-GCB DLBCL based on local IHC using Hans algorithm (Hans 2004) or else subjects must have available archival tissue for central pathology review to be eligible 4. Subjects must have previously received at least 1 frontline standard chemoimmunotherapy regimen. 5. Subjects with suspected residual disease after the treatment regimen directly preceding study enrollment must have biopsy-demonstrated residual FL or DLBCL. Please, refer to the protocol for the rest of the inclusion criteria Are the trial subjects under 18? no Number of subjects for this age range: F.1.2 Adults (18-64 years) yes F.1.2.1 Number of subjects for this age range 60 F.1.3 Elderly (&gt;=65 years) yes F.1.3.1 Number of subjects for this age range 60     Exclusion criteria: Part 1: 1. Prior malignancy (other than indolent B-cell NHL), 2. Known central nervous system (CNS) lymphoma or leptomeningeal disease. 3. A life-threatening illness, medical condition, or organ system dysfunction, 4. Known history of a bleeding diathesis , 5. Significant cardiovascular disease Part 2 1. Prior malignancy, 2. Known medically apparent CNS lymphoma or leptomeningeal disease. 3. Known evidence of transformation to another aggressive lymphoma. 4. A life-threatening illness, medical condition, or organ system dysfunction 5. Known history of a bleeding diathesis (eg, hemophilia, von Willebrand disease). Part 3 and Part 4: 1. Prior malignancy , 2. Subjects for whom the goal of therapy is tumor debulking before stem cell transplant. 3. Known history or presence of CNS lymphoma or leptomeningeal disease. 4. Transformed DLBCL or DLBCL with coexistent histologies Please, refer to the protocol for the rest of the exclusion criteria <Condition>B-cell Non-Hodgkin Lymphoma MedDRA version: 21.1 Level: LLT Classification code 10067070 Term: Follicular B-cell non-Hodgkin's lymphoma System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps) MedDRA version: 20.0 Level: PT Classification code 10076596 Term: Marginal zone lymphoma System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps) MedDRA version: 21.0 Level: PT Classification code 10012818 Term: Diffuse large B-cell lymphoma System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps) ;Therapeutic area: Diseases [C] - Cancer [C04] </Condition>     Product Name: Acalabrutinib Product Code: [ACP-196] Pharmaceutical Form: Capsule, hard INN or Proposed INN: acalabrutinib CAS Number: 1420477-60-6 Current Sponsor code: ACP-196 Concentration unit: mg milligram(s) Concentration type: equal Concentration number: 100- Trade Name: MabThera Product Name: Rituximab Product Code: [Rituximab] Pharmaceutical Form: Concentrate for solution for infusion INN or Proposed INN: Rituximab CAS Number: 174722-31-7 Current Sponsor code: Rituximab Concentration unit: mg/ml milligram(s)/millilitre Concentration type: equal Concentration number: 10- Trade Name: Revlimid® Product Name: Revlimid® Product Code: [Revlimid®] Pharmaceutical Form: Capsule, hard INN or Proposed INN: Lenalidomide CAS Number: 191732-72-6 Current Sponsor code: Lenalidomide Concentration unit: mg milligram(s) Concentration type: equal Concentration number: 10- Trade Name: Revlimid® Product Name: Revlimid Product Code: [Revlimid] Pharmaceutical Form: Capsule, hard INN or Proposed INN: LENALIDOMIDE CAS Number: 191732-72-6 Current Sponsor code: Revlimid Concentration unit: mg milligram(s) Concentration type: equal Concentration number: 15-     Primary end point(s): Efficacy endpoints will include: Part 1 - ORR - DOR - PFS - Time-to-next treatment Part 2, Part 3,Part 4 - ORR - DOR - PFS - OS Part 1 Pharmacokinetics 1. AUC0-t: Area under the plasma concentration-time curve calculated using linear trapezoidal summation. 2. AUC0-12: Area under the plasma concentration-time curve 3. AUC0-8: Area under the plasma concentration-time curve 4. AUC0-24calc: Area under the plasma concentration-time curve 5. Cmax: Maximum observed plasma concentration 6. Tmax: Time of the maximum plasma concentration 7. t½: Terminal elimination half-life 8. ¿z: Terminal elimination rate constant 9. CL/F: Oral clearance 10. Vz/F: Oral volume of distribution;Timepoint(s) of evaluation of this end point: Efficacy: Response assessments are done throughout the study but at least within 30 days Part 1/PK 1. from time 0 to time t, where t is the time of the last measurable concentration (Ct). 2. from 0 to 12 hours, calculated using linear trapezoidal summation. 3. from 0 to infinity, calculated using the formula: AUC0-8 = AUC0-t + Ct / ¿z, where ¿z is the apparent terminal elimination rate constant. 4. from 0 to 24 hours, calculated by doubling the value for AUC0-12. 5. Cmax: Maximum observed plasma concentration 6. Tmax: Time of the maximum plasma concentration (obtained without interpolation) 7. t½: Terminal elimination half-life (whenever possible) 8. ¿z: Terminal elimination rate constant (whenever possible);Main Objective: Part 1/Primary Objective: To characterize the safety profile of acalabrutinib alone or in combination with rituximab in subjects with R/R FL Part 2/Primary Objective To characterize the activity of acalabrutinib alone or in combination with rituximab in subjects with R/R MZL, as measured by ORR Part 3 and Part 4/Primary Objective To characterize the safety of acalabrutinib in combination with rituximab and lenalidomide in subjects with R/R FL or R/R non-GCB DLBCL;Secondary Objective: Part 1: To characterize the safety profile of acalabrutinib in combination with rituximab in subjects with previously untreated FL, To characterize the PK profile of acalabrutinib alone or in combination with rituximab, To evaluate the PD effects of acalabrutinib alone or in combination with rituximab, To evaluate the activity of acalabrutinib alone or in combination with rituximab as measured by ORR, duration of response (DOR), time-to-next treatment, and PFS. Part 2: To characterize the safety of acalabrutinib alone or in combination with rituximab in subjects with R/R MZL, To evaluate the activity of acalabrutinib alone or in combination with rituximab in subjects with R/R MZL, Product: Acalabrutinib as measured by DOR, PFS, and overall survival (OS). Part 3 and Part 4 : To characterize the activity of acalabrutinib in combination with rituximab and lenalidomide in subjects with R/R FL or R/R non-GCB DLBCL as measured by ORR, DOR, PFS, and OS.     ZM  - svm     ZS  - 1.0467579025184897     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986598886
+TI  - Gut mucosa barrier preservation by orally administered IgA-IgG to patients undergoing bone marrow transplantation: A randomised pilot study
+Y1  - 1999
+T2  - Bone Marrow Transplantation
+SN  - 0268-3369
+VL  - 24
+IS  - 1
+AU  - Johansson J.-E.
+AU  - Ekman T.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed6&NEWS=N&AN=29346602
+LA  - English
+PB  - Nature Publishing Group (Houndmills, Basingstoke, Hampshire RG21 6XS, United Kingdom)
+CY  - J.-E. Johansson, Department of Haematology, Sahlgrenska University Hospital, S-413 45 Goteborg, Sweden
+KW  - adult
+KW  - article
+KW  - *autologous bone marrow transplantation
+KW  - bone marrow transplantation
+KW  - cancer chemotherapy
+KW  - chronic lymphatic leukemia/dt [Drug Therapy]
+KW  - chronic lymphatic leukemia/th [Therapy]
+KW  - clinical article
+KW  - clinical trial
+KW  - controlled clinical trial
+KW  - controlled study
+KW  - female
+KW  - *gastrointestinal symptom/dt [Drug Therapy]
+KW  - *gastrointestinal symptom/pc [Prevention]
+KW  - *gastrointestinal symptom/si [Side Effect]
+KW  - human
+KW  - intestine mucosa
+KW  - intestine mucosa permeability
+KW  - male
+KW  - myeloma/dt [Drug Therapy]
+KW  - myeloma/th [Therapy]
+KW  - nonhodgkin lymphoma/dt [Drug Therapy]
+KW  - nonhodgkin lymphoma/th [Therapy]
+KW  - oral drug administration
+KW  - priority journal
+KW  - randomized controlled trial
+KW  - stem cell transplantation
+KW  - *stomach protection
+KW  - whole body radiation
+KW  - carmustine/ae [Adverse Drug Reaction]
+KW  - carmustine/dt [Drug Therapy]
+KW  - cytotoxic agent/ae [Adverse Drug Reaction]
+KW  - cytotoxic agent/dt [Drug Therapy]
+KW  - edetate chromium cr 51/pd [Pharmacology]
+KW  - *immunoglobulin/ct [Clinical Trial]
+KW  - *immunoglobulin/dt [Drug Therapy]
+KW  - melphalan/ae [Adverse Drug Reaction]
+KW  - melphalan/dt [Drug Therapy]
+KW  - unclassified drug
+KW  - igabulin/ct [Clinical Trial]
+KW  - igabulin/dt [Drug Therapy]
+KW  - Immunoglobulin G
+KW  - Pilot Projects
+KW  - Immunoglobulin A
+KW  - Bone Marrow Transplantation
+AB  - Intensive cytotoxic therapy with bone-marrow transplantation (BMT) allows a potential cure for haematological malignancies. Protective strategies to minimise haematological toxicities have been successful and currently toxicity to the gastro-intestinal tract is the major cause of treatment-related morbidity and the dose-limiting factor that prevents further dose escalation. In a randomised, placebo-controlled trial we investigated whether an oral immunoglobulin preparation (IgA-IgG) can diminish intestinal toxicity with autologous BMT. IgA-IgG (n = 6) and placebo (n = 7) were orally administered from 1 day prior to the start until 1 week after the termination of the cytotoxic treatment (a total of 14 days). Intestinal toxicity was assessed by a 51Cr-EDTA absorption test for intestinal permeability and by the clinical criteria laid down by the WHO for the period before the start of the cytotoxic treatment, 1 day prior to stem-cell infusion and 4, 7, 10 and 14 days after stem-cell infusion. In the placebo group there was a significant increase in intestinal permeability on day 4 (P < 0.005) and on day 7 (P < 0.05) after stem-cell infusion, compared with the baseline, which was not seen for IgA-IgG. In addition, patients receiving IgA-IgG had significantly less intestinal permeability on day 4 (P < 0.05) and on day 7 (P < 0.05), compared with the placebo group. No significant, positive effect as regards clinical toxicity was observed. Oral administration of IgA-IgG to patients undergoing intensive cytotoxic therapy prior to BMT seems to have a protective effect on the gut mucosa barrier which is normally disrupted by this therapy.
+DO  - http://dx.doi.org/10.1038/sj.bmt.1701821     ZM  - svm     ZS  - 3.3388989791284707     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - Clinical Trial
+AN  - rayyan-986591525
+TI  - Economic analysis of a randomized clinical trial to compare filgrastim-mobilized peripheral-blood progenitor-cell transplantation and autologous bone marrow transplantation in patients with Hodgkin's and non-Hodgkin's lymphoma.
+Y1  - 1997
+Y2  - 1
+T2  - Journal of clinical oncology : official journal of the American Society of           Clinical Oncology
+SN  - 0732-183X (Print)
+J2  - J Clin Oncol
+VL  - 15
+IS  - 1
+SP  - 5-10
+AU  - Smith TJ
+AU  - Hillner BE
+AU  - Schmitz N
+AU  - Linch DC
+AU  - Dreger P
+AU  - Goldstone AH
+AU  - Boogaerts MA
+AU  - Ferrant A
+AU  - Link H
+AU  - Zander A
+AU  - Yanovich S
+AU  - Kitchin R
+AU  - Erder MH
+AV  - Virginia Commonwealth University, Massey Cancer Center, Richmond 23298-0037, USA. tsmith@gems.vcu.edu
+UR  - https://pubmed.ncbi.nlm.nih.gov/8996118/
+LA  - eng
+CY  - United States
+KW  - Adolescent
+KW  - Adult
+KW  - Bone Marrow Transplantation/*economics
+KW  - Cancer Care Facilities/*economics/statistics & numerical data
+KW  - Combined Modality Therapy/economics
+KW  - Costs and Cost Analysis
+KW  - Filgrastim
+KW  - Granulocyte Colony-Stimulating Factor/*economics/therapeutic use
+KW  - Health Resources/statistics & numerical data
+KW  - Health Services Research/methods
+KW  - Hematopoietic Stem Cell Transplantation/*economics
+KW  - Hodgkin Disease/*therapy
+KW  - Hospital Costs/*statistics & numerical data
+KW  - Humans
+KW  - Length of Stay/economics
+KW  - Lymphoma, Non-Hodgkin/*therapy
+KW  - Middle Aged
+KW  - Prospective Studies
+KW  - Recombinant Proteins
+KW  - Sensitivity and Specificity
+KW  - Virginia
+KW  - Lymphoma, Non-Hodgkin
+KW  - Hodgkin Disease
+AB  - PURPOSE: High-dose chemotherapy (HDC) with peripheral-blood progenitor cell (PBPC) and autologous bone marrow (ABM) transplant (T) has documented survival benefits for relapsed Hodgkin's disease (HD) and non-Hodgkin's lymphoma (NHL). Treatment costs associated with HDC and its supportive care have restricted its use both on and off clinical trial. In a prospective randomized clinical trial, filgrastim-mobilized PBPCT resulted in faster recovery of bone marrow function, with less hospitalization and supportive care than ABMT. This study was undertaken to analyze the costs of the two strategies using prospectively collected data from a randomized clinical trial that compared filgrastim-mobilized PBPCT versus ABMT. PATIENTS AND METHODS: Clinical results and resource utilization from a randomized clinical trial that compared filgrastim-mobilized PBPCT versus ABMT following carmustine, etoposide, cytarabine, and melphalan (BEAM) HDC for HD and NHL are presented. The trial was performed in six centers in Germany, the United Kingdom, and Belgium. Resource utilization data were used to project costs and Massay Cancer Center (MCC) in the United States incurred the cost of treating the cohort. Costs were projected to the United States, because the economic implications to United States centers are significant, costs of care vary markedly among countries but resource utilization on this trial did not, and a randomized trial is unlikely to be performed in the United States. RESULTS: Fifty-eight patients with relapsed HD or NHL underwent HDC with BEAM. The PBPCT and ABMT groups had similar short-term survival after BEAM. PBPCT patients had a shorter hospitalization (median, 17 v 23 days; P = .002), neutrophil recovery (11 v 14 days; P = .005), platelet recovery to > or = 20 x 10(9)/L (16 v 23 days; P = .02), and days of platelet transfusions (6 v 10; P < .001). Estimated costs were $8,531 for ABM harvest and $5,760 for PBPC collection, including filgrastim mobilization. The total estimated average cost was $59,314 for each ABMT patient versus $45,792 for each PBPCT patient. Cost savings of $13,521 (23%) were due to shorter hospitalizations with less supportive care. CONCLUSION: PBPCT is as safe and more effective than ABMT for HD and NHL in the short term. PBPCT represents a significant cost savings due to lower autograft collection costs, shorter hospital stays, and less supportive care. The savings exceed the costs for filgrastim mobilization and PBPC collection. Actual savings will vary depending on local practice patterns, charges, and costs.
+DO  - 10.1200/JCO.1997.15.1.5     ZM  - svm     ZS  - 3.173515111541601     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JOUR
+AN  - rayyan-986595398
+TI  - Chimeric anti-CD20 monoclonal antibody (Mabthera) in remission induction and maintenance treatment of relapsed follicular non-Hodgkin's lymphoma (NHL): a phase III randomised clinical trial (Intergroup Collaborative Study)
+Y1  - 2002
+AU  - European Organisation for
+AU  - Research
+AU  - Treatment of Cancer
+AU  - No
+AU  - ISRCTN65655917
+UR  - http://isrctn.com/ISRCTN65655917
+CY  - European Organisation for Research and Treatment of Cancer (EORTC) (Belgium) <Ethics_review_status/> <Ethics_review_approval_date>01/01/1990 </Ethics_review_approval_date> <Ethics_review_contact_name/> <Ethics_review_contact_address>Not provided at time of registration </Ethics_review_contact_address> <Ethics_review_contact_phone/> <Ethics_review_contact_email/> <results_yes_no>Yes </results_yes_no> <results_date_completed>11/11/2005 </results_date_completed> <results_url_link/> </Trial>
+KW  - Hodgkin Disease
+KW  - Lymphoma, Non-Hodgkin
+KW  - Remission Induction
+AB  - Inclusion criteria: 1. Patients with Ann Arbour stages III or IV follicular NHL (at initial diagnosis) who have relapsed after a minimum of two adequate non-anthracycline containing systemic chemotherapy regimens. Patients pre-treated with other chemotherapy regimens are not eligible for this trial. 2. Patients should have achieved remission on at least one of the prior regimens (i.e. either on the first or second regimen) 3. Remission duration upon one of the prior regimens should have been at least 3 months 4. Previous treatment should have been at least 4 month of single agent therapy (e.g. chlorambucil) and/or at least four consecutive cycles of polychemotherapy (e.g. CVP) or purine analogues. Patients treated with chemotherapy not fulfilling these criteria are not eligible. 5. Follicular NHL according to the Revised European/American Lymphoma (REAL) classification, i.e. follicle centre lymphoma, follicular (provisional cytological grades I [small cell], II [mixed small cell and large cell], III [large cell]) 6. Must be CD20 positive lymphoma 7. At least one mass should be present measurable by two perpendicular diameters by either physical or radiological examination 8. Aged 18 years or above 9. World Health Organization (WHO) performance status 0, 1 or 2 10. Patient information and written informed consent according to the rules of the respective country     Exclusion criteria: Does not match inclusion criteria <Condition>Lymphoma (non-Hodgkin's) Cancer Lymphoma (non-Hodgkin's) </Condition>     Arm 1: CHOP will be given at 3-week intervals. After three cycles patients will be evaluated for response. Patients with stable or progressive disease will go off study. A total of six cycles will be given. Arm 2: CHOP plus Mabthera. Mabthera (iv) given on first day of each cycle of CHOP. Stable or progressive patients after three cycles will go off the study. A total of six cycles will be given.     Not provided at time of registration     ZM  - svm     ZS  - 2.338338913393574     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986594753
+TI  - Efficacy and safety of rituximab in combination with chemotherapy in the treatment of Non- Hodgkin's Lymphoma
+Y1  - 2012
+T2  - European Journal of Hospital Pharmacy: Science and Practice
+VL  - 19
+IS  - 2
+AU  - Castellano Copa P.
+AU  - Gonzalez Lopez M.
+AU  - Sempere Serrano P.
+AU  - Iglesias Santamaria A.
+AU  - Gonzalez Suarez C.
+AU  - Lopez Rodriguez I.
+AU  - Lopez Garcia V.M.
+UR  - ["http://ejhp.bmj.com/content/19/2/159.3.abstract?sid=b5ad65c3-284b-42a3-920c-2441cfa168f", "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed13&NEWS=N&AN=70877413"]
+LA  - English
+PB  - BMJ Publishing Group
+CY  - P. Castellano Copa, Hospital Lucus Augusti, Farmacia, Lugo, Spain
+KW  - *pharmacist
+KW  - *hospital
+KW  - *human
+KW  - *safety
+KW  - *chemotherapy
+KW  - *nonhodgkin lymphoma
+KW  - patient
+KW  - toxicity
+KW  - neutropenia
+KW  - infection
+KW  - bone marrow transplantation
+KW  - radiation
+KW  - event free survival
+KW  - recurrence risk
+KW  - anemia
+KW  - relapse
+KW  - computer program
+KW  - medical history
+KW  - observational study
+KW  - overall survival
+KW  - male
+KW  - diagnosis
+KW  - cell line
+KW  - thrombocytopenia
+KW  - infusion related reaction
+KW  - arm
+KW  - United States
+KW  - therapy
+KW  - *rituximab
+KW  - vincristine
+KW  - doxorubicin
+KW  - cyclophosphamide
+KW  - prednisone
+KW  - monoclonal antibody
+KW  - Hodgkin Disease
+KW  - Drug Therapy, Combination
+KW  - Lymphoma, Non-Hodgkin
+AB  - Background: Chemotherapy, radiation and autologous bone marrow transplant are conventional standard therapies in Non-Hodgkin's lymphoma (NHL). Nowadays the introduction of monoclonal antibodies has enhanced the specificity of treatment, reducing the toxicity and presenting synergism with conventional chemotherapy. Purpose(s): To compare rituximab efficacy and safety in combination with CHOP chemotherapy (cyclophosphamide, adriamycin, vincristine and prednisone) in the treatment of NHL in our hospital, with that published in the literature. Material(s) and Method(s): Retrospective observational study of 116 patients diagnosed with NHL who received chemotherapy with R-CHOP (rituximab-CHOP) between January 2005 and December 2010. The authors reviewed the medical history (100%) and the data were analysed using SPSS predictive analytics software. Were recorded: demographic data (age, sex); efficacy (complete response (CR), partial response (PR), overall response rate (ORR), progression and relapse, overall survival (OS) and event free survival (EFS)); toxicity (haematological and non-haematological). Result(s): 53.5% of patients were male and mean age at diagnosis was 59 years. The authors obtained an ORR of 80.2% (71.3% CR and 8.9% PR). 14.8% of patients did not respond, and 5% had an unknown response. The progression and relapse rates were 18.8% and 17.8% respectively. Projected median OS for responding patients was over 30 months and EFS after one year was 70.3%. Neutropenia, anaemia and thrombocytopenia rates were reported as 15.8%, 12.4% and 2.3% respectively. Infusion-related reactions were reported in 1.95% of patients, 72.2% during the first session. The detected rate of infection was relatively low, and 3.5% of all infections were microbiologically documented. Conclusions The results obtained were comparable to those of published studies in the literature for the treatment arm with R-CHOP in randomised patients (GELA NHL-95.5 study group, U.S. Intergroup Study, Mabthera International Trial MINT study). Neutropenia rates were higher than those found in the study of McLaughlin et al, while the other cell lines the results were similar.
+DO  - https://dx.doi.org/10.1136/ejhpharm-2012-000074.196     ZM  - svm     ZS  - 1.393000893657159     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986591809
+TI  - Rituximab maintenance versus observation after immunochemotherapy (R-CHOP, R-MCP, R-FCM) in previously untreated follicular lymphoma: A randomised trial of GLSG and OSHO
+Y1  - 2017
+T2  - Hematological Oncology
+SN  - 0278-0232
+VL  - 35
+AU  - Hoster E.
+AU  - Unterhalt M.
+AU  - Hanel M.
+AU  - Prange-Krex G.
+AU  - Forstpointner R.
+AU  - Florschutz A.
+AU  - Graeven U.
+AU  - Frickhofen N.
+AU  - Wulf G.
+AU  - Lengfelder E.
+AU  - Lerchenmuller C.
+AU  - Schlag R.
+AU  - Dierlamm J.
+AU  - Fischer Von Weikersthal L.
+AU  - Ahmed A.
+AU  - Harich H.
+AU  - Rosenwald A.
+AU  - Klapper W.
+AU  - Dreyling M.
+AU  - Hiddemann W.
+AU  - Herold M.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed18&NEWS=N&AN=617729125
+LA  - English
+PB  - John Wiley and Sons Ltd
+CY  - E. Hoster, Medizinische Klinik III, Klinikum der Ludwig-Maximilians-Universitat Munchen, Munich, Germany
+KW  - adverse drug reaction
+KW  - autologous stem cell transplantation
+KW  - clinical trial
+KW  - controlled clinical trial
+KW  - controlled study
+KW  - drug therapy
+KW  - female
+KW  - *follicular lymphoma
+KW  - Follicular Lymphoma International Prognostic Index
+KW  - gastrointestinal tract
+KW  - hazard ratio
+KW  - human
+KW  - leukopenia
+KW  - major clinical study
+KW  - male
+KW  - neurotoxicity
+KW  - overall survival
+KW  - progression free survival
+KW  - radiotherapy
+KW  - randomized controlled trial
+KW  - remission
+KW  - side effect
+KW  - thrombocytopenia
+KW  - *cyclophosphamide plus doxorubicin plus prednisolone plus rituximab plus vincristine
+KW  - endogenous compound
+KW  - *rituximab
+KW  - Lymphoma
+AB  - Introduction: Despite frequent long lasting remissions to first-line treatment, follicular lymphoma of advanced stages is characterized by recurrent relapses. In the randomized PRIMA trial of the GELA, rituximab maintenance achieved prolonged progression-free survival (PFS) compared with observation in remission after first-line immunochemotherapy (Salles et al., Lancet 2011). The German study groups GLSG and OSHO initiated in 2007 a double randomized trial to investigate the efficacy and safety of rituximab maintenance versus observation in remission after randomly assigned induction treatment. Method(s): Previously untreated patients with Ann Arbor stage II-IV follicular lymphoma in need of therapy and not candidates for autologous stem cell transplantation or curative radiotherapy were randomised to receive 6 cycles of R-CHOP, R-MCP, or RFCM. Patients responding to induction treatment were subsequently randomised to 2 years rituximab maintenance or observation, stratified by type of induction treatment, quality of remission, and FLIPI. The trial was initially planned to detect with 95% power a 15% difference in complete remission rates between any of the three induction groups and a PFS hazard ratio of 0.60 by postremission strategy. Result(s): Recruitment was stopped in 2011 after the PRIMA results had been published. Median age of the 206 recruited patients was 66 years (range, 24-86), and FLIPI was low in 13%, intermediate in 28%, and high in 60%. A trend towards higher complete remission rates with R-FCM (43% of 58 patients) compared to R-CHOP (23% of 66) and R-MCP (24% of 66) was observed, but the differences were not statistically significant. High and comparable overall response rates were observed after R-CHOP (88%), R-MCP (89%), and R-FCM (91%). In terms of grade 3-4 leukocytopenia and grade 3-4 thrombocytopenia, R-FCM (92%, 17%) was more toxic than R-MCP (88%, 6%) which was more toxic than R-CHOP (63%, 3%); R-CHOP showed more frequent neurological toxicities (40%) compared with R-MCP (14%) and R-FCM (16%). Rituximab maintenance substantially prolonged progression-free survival in comparison to observation in remission (hazard ratio 0.39, p = 0.0064). In the rituximab maintenance group, 3-years PFS was 89% (8 PFS events among 65 patients) compared with 69% in the observation group (19 events among 63 patients). With 11 events, no differences in overall survival could be observed for maintenance vs. observation (hazard ratio 1.04, 95% CI 0.32-3.43, p = 0.95). Rituximab maintenance was more toxic with regards to leukocytes and the gastro-intestinal tract. Conclusion(s): In this randomized trial, 2 years rituximab maintenance was associated with substantially prolonged PFS in comparison to observation after response to first-line immunochemotherapy in follicular lymphoma. Our data represent an independent confirmation of the GELA PRIMA trial results.
+DO  - https://dx.doi.org/10.1002/hon.2437     ZM  - svm     ZS  - 4.367572008677742     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JOUR
+AN  - rayyan-986595030
+TI  - A phase IIa study of rituximab and varlilumab in relapsed or refractory B-cell malignancies
+Y1  - 2017
+AU  - University Hospital Southampton
+AU  - N. H. S. Foundation Trust Yes
+AU  - ISRCTN15025004
+UR  - http://isrctn.com/ISRCTN15025004
+CY  - Cancer Research UK; Grant Codes: CRUKD/17/008 <Ethics_review_status/> <Ethics_review_approval_date>01/01/1900 </Ethics_review_approval_date> <Ethics_review_contact_name/> <Ethics_review_contact_address>Not provided at time of registration - approval pending </Ethics_review_contact_address> <Ethics_review_contact_phone/> <Ethics_review_contact_email/> <results_date_completed>31/07/2022 </results_date_completed> <results_url_link/> </Trial>
+KW  - Recurrence
+AB  - Inclusion criteria: 1. Relapsed or refractory CD20+ B-cell lymphoma excluding chronic lymphocytic leukaemia/small lymphocytic lymphoma (CLL/SLL): 1.1. High grade subgroup: Diffuse large B-cell lymphoma, FL grade 3b, transformed FL 1.2. Low grade subgroup: All low grade CD20+ B-cell lymphoma subtypes excluding CLL/SLL (e.g. FL grade 1,2 or 3a, MCL, LPL) 2. Disease must be recurrent or treatment refractory, and received at least one line of treatment. Rituximab-refractory participants are eligible for the entry into the study as long as the tumour expresses CD20 3. At least one measurable lesion by CT scan (defined as &gt;1.5 cm in one axis) that is also easily accessible for biopsy 4. Histological confirmation of relapse within 12 months of treatment 5. 16 years of age or older 6. Haematological and biochemical indices with the ranges shown below: 6.1. Haemoglobin (Hb)	= 90 g/L (red cell support is permissible) 6.2. Absolute neutrophil count (ANC)	=1.0 x 109/L (or =0.5 x 109/L if bone marrow involvement) G-CSF support is not permissible at screening 6.3. Platelet count =75 x 109/L (or =30 x 109/L if bone marrow involvement) 6.4. Serum bilirubin =1.5 x upper limit of normal (ULN) unless raised due to Gilbert’s syndrome in which case up to 3 x ULN is permissible 6.5. Alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) = 2.5 x ULN unless raised due to hepatic involvement 6.6. Calculated creatinine clearance (Cockcroft-Gault formula) =30 ml/min (uncorrected value) 7. Ability to understand the purpose and risks of the study and provide written informed consent 8. Willing and able to participate in all required evaluations and procedures in this study protocol 9. Participants must be willing to participate in appropriate pregnancy prevention measures 9.1. Women of childbearing potential who have a negative serum or urine pregnancy test during screening (within 14 days prior to the start of trial treatment) and agree to use one highly effective form of contraception combined with an effective form of contraception (see below) effective from the first administration of all study drugs, throughout the trial and for 12 months after last dose all study drugs are considered eligible 9.2. Male participants with partners of child-bearing potential who agree to take measures not to father children by using one form of highly effective contraception from the first administration of all study drugs, throughout the trial and for 12 months after last dose of all study drugs are considered eligible. Male subjects must also refrain from donating sperm during this period. Contraception that is considered highly effective includes oral, injected or implanted progesterone-only hormonal contraception (with inhibition of ovulation); oral, intravaginal, or transdermal combined (oestrogen and progesterone containing) hormonal contraception (with inhibition of ovulation); an intra-uterine device (IUD); an intrauterine hormone releasing system (IUS); bilateral tubal occlusion; vasectomised partner or abstinence. Contraceptive methods considered to be effective include progesterone-only oral hormonal contraception, where inhibition of ovulation is not the primary mode of     Exclusion criteria: 1. Known central nervous system involvement by lymphoma, that is not in remission, are excluded from the study 2. History of other malignancy within the last 2 years except for: 2.1. Noninvasive malignancies such as adequately treated ductal carcinoma in situ of the breast, non-melanoma skin cancer or lentigo maligna, cervical carcinoma in situ and urothelial papillary noninvasive carcinoma or carcinoma in situ 2.2. Prostate intraepithelial neoplasia without evidence of prostate cancer 3. Receiving treatment (or within a month of) with chemotherapy, immunotherapy or immunosuppressive agents. This includes any systemic steroids at dose exceeding 10 mg prednisolone (or other steroid equivalent) within 2 weeks prior to first dose of varlilumab 4. Significant concurrent, uncontrolled medical condition that in the opinion of the investigator contraindicates participation in this study 5. Active and documented autoimmune disease (including, but not limited to, inflammatory bowel disease, coeliac disease, haemolytic anaemia, or immune thrombocytopenic purpura) prior to first dose of varlilumab 6. Active infection requiring systemic therapy 7. Women who are pregnant or lactating 8. Serological positivity for Hepatitis B, C, or known HIV infection. As per standard of care, the results of hepatitis serology should be known prior to commencement of immunochemotherapy 8.1. Positive test results for chronic HBV infection (defined as positive HBsAg serology and positive HBcAb) will not be eligible. Patients with occult or prior HBV infection (defined as negative HBsAg and positive HBcAb) will not be eligible. Patients who have protective titres of hepatitis B surface antibody (HBsAb) after vaccination will be eligible 8.2. Positive test results for hepatitis C (HCV antibody serology testing) will not be eligible 9. Previous recipient of an allogeneic bone marrow transplant at any time 10. Autologous bone marrow transplant within 100 days of first dosing 11. Systemic radiation therapy within 4 weeks or prior focal radiotherapy within 2 weeks prior to first dosing 12. Subjects known or suspected of being unable to comply with the protocol 13. Ongoing toxic manifestations of previous treatments. Exceptions are to this are alopecia or certain Grade 1-toxicities, which in the opinion of the Investigator should not exclude the patient 14. Uncontrolled congestive cardiac failure, cardiac ischaemia or cardiac arrhythmia. Clinically significant cardiac disease including unstable angina, acute myocardial infarction within six months prior to registration, congestive heart failure (NYHA III-IV) 15. Subjects with a known hypersensitivity to rituximab (=Grade 3) or murine proteins, or any other excipients used in the formulation of rituximab <Condition>Lymphoma Cancer </Condition>     20 patients will be allocated to the high grade group (i.e. patients with DLBCL, follicular lymphoma grade 3b, transformed follicular lymphoma) and 20 patients to the low grade group (i.e. patients with follicular lymphoma grade 1, 2 or 3a, marginal zone lymphoma (MZL), mantle cell lymphoma (MCL), lymphoplasmacytic lymphoma (LPL)). In the high grade group 10 will be randomised to Arm A and 10 to Arm B. In the low grade group 10 will be randomised to Arm A and 10 to ARM. Patients will receive 6 cycles of treatment, with administration of rituximab on day 1 of each cycle and of varlilumab on day 2 of cycles 1, 3 and 5. Each cycle is 2 weeks long. Patients in Arm A: For Cycle 1 will receive Rituximab 375 mg/m2 IV on Day 1 and Varlilumab 3 mg/kg IV on Day 2. Thereafter every 2 weeks patients will Rituximab 375 mg/m2 IV for 12 weeks in cycle 2 and 6 on Day 1 and Varlilumab 3 mg/kg IV for 12 weeks. Patients in Arm B: For Cycle 1 will receive Rituximab 375 mg/m2 on Day 1 and Varlilumab 3 mg/kg IV on Day 8. Thereafter every 2 weeks patients will receive Rituximab 375 mg/m2 IV for 12 weeks in cycle 2 and 6 on Day 1 and Varlilumab 3 mg/kg IV for 12 weeks. Patients will then be followed up 2 weeks after they complete the trial treatment and every 2 months over a period of 12 months at 2, 4, 6, 8, 10 and 12 months.     1. Safety: DLT and adverse events and grading of severity according to NCI CTCAE Version 4.03). Timepoint(s): during trial treatment and for 12 months after trial treatment 2. Efficacy: response in each case according to the Lugano Revised Response Criteria for Malignant Lymphoma; Timepoint(s): 2 weeks after treatment, and every 2 months after trial treatment up to 12 months     No secondary outcome measures     ZM  - svm     ZS  - 3.6189274319770695     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986594553
+TI  - Cyclosporine dose intensity is a critical determinant of outcome after a reduced intensity allogeneic stem cell transplant
+Y1  - 2009
+T2  - Haematologica
+SN  - 0390-6078
+VL  - 94
+AU  - Craddock C.
+AU  - Nagra S.
+AU  - Moss P.
+AU  - Cook M.
+UR  - ["http://www.haematologica.org/cgi/reprint/94/supplement_2/1", "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed11&NEWS=N&AN=70012344"]
+LA  - English
+PB  - Haematologica Journal Office
+CY  - C. Craddock, Queen Elizabeth Hospital, Birmingham, United Kingdom
+KW  - *transplantation
+KW  - *hematology
+KW  - *stem cell
+KW  - patient
+KW  - risk
+KW  - relapse
+KW  - exposure
+KW  - multivariate analysis
+KW  - donor
+KW  - allograft
+KW  - univariate analysis
+KW  - overall survival
+KW  - Hodgkin disease
+KW  - loading drug dose
+KW  - population
+KW  - hazard
+KW  - death
+KW  - drug dose regimen
+KW  - graft versus leukemia effect
+KW  - area under the curve
+KW  - graft versus host reaction
+KW  - lymphoma
+KW  - infusion
+KW  - sibling
+KW  - volunteer
+KW  - reduced intensity conditioning
+KW  - disease free survival
+KW  - immunosuppressive treatment
+KW  - prophylaxis
+KW  - acute granulocytic leukemia
+KW  - myelodysplastic syndrome
+KW  - *cyclosporin
+KW  - alemtuzumab
+KW  - melphalan
+KW  - cyclosporin A
+KW  - fludarabine
+KW  - etoposide
+KW  - cytarabine
+KW  - carmustine
+KW  - Cyclosporins
+KW  - Stem Cell Transplantation
+KW  - Cyclosporine
+AB  - Background. The ability of allogeneic transplants performed using a reduced intensity conditioning (RIC) regimen to deliver long term disease free survival is dependent on the genesis of an immunologically mediated graft-versus tumor (GVT) effect. Post-transplant immunosuppression plays an important role in limiting graft-versus-host disease (GVHD) but also modulates a GVT effect. Cyclosporine A (CsA) is the most commonly utilised form of GVHD prophylaxis after a RIC allograft but its impact on transplant outcome has not been studied. Aim. We wished to examine the impact of CsA dose intensity on disease relapse and overall survival (OS) in patients transplanted using an alemtuzumab based RIC regimen. Methods. CsA exposure in the first 21 days posttransplant was measured in 132 patients and correlated with overall survival, and relapse risk. 68 patients were transplanted for a myeloid malignancy (acute myeloid leukemia (n=41), myelodysplasia (n=17)) and 74 for a lymphoid malignancy (Non-Hodgkin's lymphoma (n=51) or Hodgkin's disease (n=23)). All patients with a myeloid malignancy were transplanted using a regimen consisting of fludarabine, melphalan and alemtuzumab (FMA). Patients with an underlying lymphoid disease were transplanted using FMA (n=31) or a regimen consisting of BCNU, etoposide, cytosine arabinoside, melphalan and alemtuzumab (BEAMA) (n=43). 39 patients had chemoresistant disease at the time of transplant. All patients received intravenous CsA at a loading dose of 5 mg/kg on day -1 followed by 2.5 mg/kg b.i.d. Patients were switched to oral CsA prior to discharge. Trough CsA levels were measured thrice weekly for the first three weeks after stem cell infusion and the dose of CsA adjusted to achieve levels in the region of 200-300 mug/L during this period. Trough levels obtained during the first 21 days post-transplant were used to calculate the CsA area under the curve (AUC) for each patient. Results. 71 patients were transplanted from HLA identical siblings and 61 from volunteer unrelated donors. The median age of the whole group was 48 years (range 17-68). The incidence of acute GVHD (Grades 2-4) was 34%. The median CsA AUC in the first 21 days post-transplant was 3682 microg.hr/l (range 2162-8084). In univariate analysis the presence of chemoresistant disease at the time of transplant and a high CsA AUC were both associated with a decreased OS. In multivariate analyses chemoresistant disease (HR=2.60, 95% CI 1.44-4.65, p=0.002) and linearly increasing CsA AUC were associated with an increased hazard of death (HR=1.1, 95%CI 1.02-1.24, p=0.02). The two year OS for patients with a CsA AUC less than 3682 microg.hr/l was 77% compared to 30% for patients with CsA greater than 3682 microg.hr/l (p<0.0001). Increased CsA AUC and the presence of chemorefractory disease at the time of transplant were associated with an increased risk of relapse in univariate analysis. In multivariate analyses only increased CsA AUC was significantly associated with a higher risk of relapse (OR=4.1, 95% CI 2.50-6.81, p<0.0001). Decreased CsA AUC and the use of an unrelated donor were associated with an increased risk of acute GVHD in univariate analysis. Multivariate analyses demonstrated that the use of an unrelated donor (HR=2.9, 9%% CI 1.36-6.36, p=0.006) and linearly decreasing CsA AUC were significantly associated with an increased risk of acute GVHD (HR=1.2, 95% CI 1.05-1.43, p=0.01). Conclusions. These data identify CsA exposure as a critical and manipulable determinant of outcome after a T depleted RIC allograft. They support a randomised trial aimed at identifying the optimal CsA dose schedule in this population of patients. It will be important to determine whether post-transplant CsA exposure plays a similar role in determining outcome after a T replete RIC allograft.     ZM  - svm     ZS  - 0.8094884586732665     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986595271
+TI  - Fludarabine and mitoxantrone followed by yttrium-90 ibritumomab tiuxetan in previously untreated patients with follicular non-Hodgkin lymphoma trial: a phase II non-randomised trial (FLUMIZ)
+Y1  - 2008
+T2  - The Lancet Oncology
+SN  - 1470-2045
+VL  - 9
+IS  - 4
+AU  - Zinzani P.L.
+AU  - Tani M.
+AU  - Pulsoni A.
+AU  - Gobbi M.
+AU  - Perotti A.
+AU  - De Luca S.
+AU  - Fabbri A.
+AU  - Zaccaria A.
+AU  - Voso M.T.
+AU  - Fattori P.
+AU  - Guardigni L.
+AU  - Ronconi S.
+AU  - Cabras M.G.
+AU  - Rigacci L.
+AU  - De Renzo A.
+AU  - Marchi E.
+AU  - Stefoni V.
+AU  - Fina M.
+AU  - Pellegrini C.
+AU  - Musuraca G.
+AU  - Derenzini E.
+AU  - Pileri S.
+AU  - Fanti S.
+AU  - Piccaluga P.P.
+AU  - Baccarani M.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed10&NEWS=N&AN=50091898
+LA  - English
+PB  - Lancet Publishing Group (Elsevier, The Boulevard, Langford, Kidlington, Oxford OX5 1GB, United Kingdom)
+CY  - P.L. Zinzani, Institute of Haematology and Medical Oncology L and A Seragnoli, University of Bologna, Bologna, Italy. E-mail: plzinzo@med.unibo.it
+KW  - adjuvant therapy
+KW  - adult
+KW  - article
+KW  - blood toxicity/si [Side Effect]
+KW  - blood toxicity/th [Therapy]
+KW  - blood transfusion
+KW  - clinical trial
+KW  - controlled clinical trial
+KW  - controlled study
+KW  - dose response
+KW  - drug efficacy
+KW  - drug safety
+KW  - female
+KW  - human
+KW  - Italy
+KW  - leukocyte count
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - multiple cycle treatment
+KW  - *nonhodgkin lymphoma/dt [Drug Therapy]
+KW  - *nonhodgkin lymphoma/rt [Radiotherapy]
+KW  - overall survival
+KW  - phase 2 clinical trial
+KW  - priority journal
+KW  - *radioimmunotherapy
+KW  - thrombocyte count
+KW  - allopurinol/dt [Drug Therapy]
+KW  - allopurinol/po [Oral Drug Administration]
+KW  - *fludarabine/ct [Clinical Trial]
+KW  - *fludarabine/cb [Drug Combination]
+KW  - *fludarabine/dt [Drug Therapy]
+KW  - *fludarabine/po [Oral Drug Administration]
+KW  - *ibritumomab tiuxetan/ae [Adverse Drug Reaction]
+KW  - *ibritumomab tiuxetan/ct [Clinical Trial]
+KW  - *ibritumomab tiuxetan/cb [Drug Combination]
+KW  - *ibritumomab tiuxetan/dt [Drug Therapy]
+KW  - *ibritumomab tiuxetan/iv [Intravenous Drug Administration]
+KW  - *mitoxantrone/ct [Clinical Trial]
+KW  - *mitoxantrone/cb [Drug Combination]
+KW  - *mitoxantrone/dt [Drug Therapy]
+KW  - *mitoxantrone/iv [Intravenous Drug Administration]
+KW  - rituximab/dt [Drug Therapy]
+KW  - Hodgkin Disease
+KW  - Lymphoma, Non-Hodgkin
+KW  - Mitoxantrone
+AB  - Background: Follicular lymphoma is the most common form of lymphoma in Europe and the USA. In this prospective, single-arm, open-labelled, multicentre non-randomised phase II trial (FLUMIZ [FLUdarabine, MItoxantrone, Zevalin] trial) we aimed to assess the efficacy and safety of fludarabine and mitoxantrone plus radioimmunotherapy in untreated patients with follicular non-Hodgkin lymphoma (NHL). Method(s): Patients with stage III or IV untreated indolent follicular NHL were enrolled between June 1, 2004, and April 15, 2006, at 13 Italian institutions, and were treated with oral fludarabine (40 mg/m2 on days 1 to 3) and intravenous mitoxantrone (10 mg/m2 on day 1) every 28 days for six cycles. Patients who had at least a partial response (PR) with normal platelet counts (>100x109/L) and granulocyte counts (1.5x109/L), and bone-marrow infiltration less than 25% 4-6 weeks after completion of the sixth cycle of chemotherapy were deemed eligible for consolidation treatment 6-10 weeks after the sixth cycle with one course of yttrium-90 (90Y)-labelled ibritumomab tiuxetan (Zevalin), which consisted of an initial infusion of intravenous rituximab (250 mg/m2) on day 1 followed by a second 250 mg/m2 infusion on day 7, 8, or 9. The second infusion was followed by a weight-based dose of 90Y-ibritumomab tiuxetan, administered as a slow intravenous push over 10 min. Primary endpoints were complete response (CR) and haematological toxic effects and secondary endpoints were overall survival and progression-free survival. Responses were classified according to the International Workshop for Response Criteria for non-Hodgkin's lymphomas. Analysis was per protocol. This trial is registered as a European Standard Controlled Trial on the EudraCT website http://oss-sper-clin.agenziafarmaco.it, number 2004-002211-92. Finding(s): 61 patients were enrolled in the trial and received six cycles of fludarabine and mitoxantrone, after which an overall response was noted in 98% (60 of 61) of patients (43 of 61 patients had CR and 17 of 61 patients had PR). 57 patients (43 with CR and 14 with PR) were deemed eligible for subsequent 90Y-ibritumomab tiuxetan. Of the 14 patients who had PR after the initial treatment, 12 obtained CR after 90Y-ibritumomab tiuxetan. By the end of the entire treatment regimen 55 of 57 patients achieved CR. With a median follow-up of 30 months (range 21-48), 3-year progression-free survival was estimated to be 76% (95% CI 72.3-82.4) and 3-year overall survival 100%. 36 of 57 patients had grade 3 or 4 haematological toxic effects, and blood transfusions were given to 21 of 57 patients. Interpretation(s): This trial has provided evidence for the feasibility, tolerability, and efficacy of fludarabine and mitoxantrone plus 90Y-ibritumomab tiuxetan in untreated patients with follicular NHL. Funding(s): Italian Association for Leukaemias, Lymphomas, and Myeloma, Bologna, Italy. © 2008 Elsevier Ltd. All rights reserved.
+DO  - https://dx.doi.org/10.1016/S1470-2045%2808%2970039-1     ZM  - svm     ZS  - 3.6693332238017606     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986595859
+TI  - Outcomes after R-CHOP in patients with newly diagnosed advanced follicular lymphoma: a 10-year follow-up analysis of the JCOG0203 trial
+Y1  - 2018
+T2  - The Lancet Haematology
+SN  - 2352-3026
+VL  - 5
+IS  - 11
+AU  - Watanabe T.
+AU  - Tobinai K.
+AU  - Wakabayashi M.
+AU  - Morishima Y.
+AU  - Kobayashi H.
+AU  - Kinoshita T.
+AU  - Suzuki T.
+AU  - Yamaguchi M.
+AU  - Ando K.
+AU  - Ogura M.
+AU  - Taniwaki M.
+AU  - Uike N.
+AU  - Yoshino T.
+AU  - Nawano S.
+AU  - Terauchi T.
+AU  - Hotta T.
+AU  - Nagai H.
+AU  - Tsukasaki K.
+AU  - Kurosawa M.
+AU  - Yamagishi K.
+AU  - Kobayashi N.
+AU  - Minauchi K.
+AU  - Harigae H.
+AU  - Fukuhara N.
+AU  - Takahashi N.
+AU  - Kameoka Y.
+AU  - Matsuda S.
+AU  - Saitoh Y.
+AU  - Tsukamoto N.
+AU  - Yokohama A.
+AU  - Kubota N.
+AU  - Minami Y.
+AU  - Yamauchi N.
+AU  - Kumagai K.
+AU  - Tsujimura H.
+AU  - Izutsu K.
+AU  - Maruyama D.
+AU  - Takayama N.
+AU  - Ohyashiki K.
+AU  - Akahane D.
+AU  - Shimoyama T.
+AU  - Shimada T.
+AU  - Kamiyama Y.
+AU  - Dobashi N.
+AU  - Wasada I.
+AU  - Sano F.
+AU  - Takimoto M.
+AU  - Chou T.
+AU  - Ishiguro T.
+AU  - Masaki Y.
+AU  - Yamauchi T.
+AU  - Ono T.
+AU  - Yamamoto K.
+AU  - Kato H.
+AU  - Tokunaga T.
+AU  - Shimada K.
+AU  - Ushijima Y.
+AU  - Iida S.
+AU  - Kusumoto S.
+AU  - Uchida T.
+AU  - Hanamura I.
+AU  - Kanasugi J.
+AU  - Kagami Y.
+AU  - Hiraga J.
+AU  - Miyazaki K.
+AU  - Utsumi T.
+AU  - Kuroda J.
+AU  - Kobayashi T.
+AU  - Matsumura I.
+AU  - Rai S.
+AU  - Murayama T.
+AU  - Gomyo H.
+AU  - Sunami K.
+AU  - Makita M.
+AU  - Ichinohe T.
+AU  - Fukushima N.
+AU  - Yoshida I.
+AU  - Yakushijin Y.
+AU  - Asai H.
+AU  - Suehiro Y.
+AU  - Choi I.
+AU  - Takamatsu Y.
+AU  - Sasaki H.
+AU  - Yamasaki S.
+AU  - Tsukada J.
+AU  - Morimoto H.
+AU  - Kimura S.
+AU  - Yokoo M.
+AU  - Yoshida S.
+AU  - Moriuchi Y.
+AU  - Miyazaki Y.
+AU  - Imaizumi Y.
+AU  - Jo T.
+AU  - Nosaka K.
+AU  - Tatetsu H.
+AU  - Hidaka M.
+AU  - Harada N.
+AU  - Ohtsuka E.
+AU  - Ishitsuka K.
+AU  - Yoshimitsu M.
+AU  - Utsunomiya A.
+AU  - Takatsuka Y.
+AU  - Morishima S.
+AU  - Nakachi S.
+UR  - ["http://www.journals.elsevier.com/the-lancet-haematology/", "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=2001227336"]
+LA  - English
+PB  - Elsevier Ltd
+CY  - T. Watanabe, Department of Immuno-Gene Therapy, Mie University Graduate School of Medicine, Mie 514-8507, Japan. E-mail: twatanabe@doc.medic.mie-u.ac.jp
+KW  - adult
+KW  - article
+KW  - brain hemorrhage/si [Side Effect]
+KW  - clinical trial
+KW  - female
+KW  - *follicular lymphoma/di [Diagnosis]
+KW  - *follicular lymphoma/dt [Drug Therapy]
+KW  - follow up
+KW  - hematopoietic stem cell transplantation
+KW  - herpes zoster
+KW  - histopathology
+KW  - human
+KW  - human tissue
+KW  - interstitial pneumonia/si [Side Effect]
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - multiple cycle treatment
+KW  - myeloid leukemia
+KW  - overall survival
+KW  - phase 2 clinical trial
+KW  - phase 3 clinical trial
+KW  - Pneumocystis jiroveci
+KW  - pneumonia
+KW  - priority journal
+KW  - progression free survival
+KW  - prospective study
+KW  - sepsis/si [Side Effect]
+KW  - *treatment outcome
+KW  - x-ray computed tomography
+KW  - bendamustine/ct [Clinical Trial]
+KW  - bendamustine/dt [Drug Therapy]
+KW  - cyclophosphamide/ae [Adverse Drug Reaction]
+KW  - cyclophosphamide/ct [Clinical Trial]
+KW  - cyclophosphamide/cb [Drug Combination]
+KW  - cyclophosphamide/dt [Drug Therapy]
+KW  - doxorubicin/ae [Adverse Drug Reaction]
+KW  - doxorubicin/ct [Clinical Trial]
+KW  - doxorubicin/cb [Drug Combination]
+KW  - doxorubicin/dt [Drug Therapy]
+KW  - prednisone/ae [Adverse Drug Reaction]
+KW  - prednisone/ct [Clinical Trial]
+KW  - prednisone/cb [Drug Combination]
+KW  - prednisone/dt [Drug Therapy]
+KW  - rituximab/ae [Adverse Drug Reaction]
+KW  - rituximab/ct [Clinical Trial]
+KW  - rituximab/cb [Drug Combination]
+KW  - rituximab/dt [Drug Therapy]
+KW  - vincristine/ae [Adverse Drug Reaction]
+KW  - vincristine/ct [Clinical Trial]
+KW  - vincristine/cb [Drug Combination]
+KW  - vincristine/dt [Drug Therapy]
+KW  - vincristine/iv [Intravenous Drug Administration]
+KW  - Lymphoma
+AB  - Background: Standard treatment for untreated advanced-stage follicular lymphoma is rituximab plus chemotherapy. The incidence of histological transformation of follicular lymphoma has been reported only in heterogeneously treated populations and rarely with long-term follow-up. Additionally, the incidence of secondary malignancies after treatment, without high-dose therapy for follicular lymphoma, is largely unknown. The aim of our study was to assess progression-free survival, overall survival, incidence of secondary malignancies, and incidence of histological transformation in a 10-year follow-up analysis of the JCOG0203 trial. Method(s): In the phase 2-3 randomised JCOG0203 trial, previously untreated patients with stage III or IV indolent B-cell lymphoma, including grades 1-3 follicular lymphoma, from 44 hospital centres in Japan, were randomly assigned (1:1) by use of a minimisation method to receive six cycles of R-CHOP (rituximab [375 mg/m2], given on day 1, plus cyclophosphamide [750 mg/m2], doxorubicin [50 mg/m2], vincristine [1.4 mg/m2, capped at 2.0 mg] given intravenously on day 3, and oral prednisone [100 mg once daily on days 3-7]) every 3 weeks (R-CHOP-21) or every 2 weeks (enabled by mandatory granulocyte-colony stimulating factor administration once daily for 6 days, starting on day 8; R-CHOP-14) without rituximab maintenance. Age, bulky disease (nodal or extranodal mass >=10 cm in diameter on CT), and institution were used as adjustment factors. Investigators enrolled participants, and assignment to trial groups was done with a computer-assisted randomisation allocation sequence that took place centrally at the Japan Clinical Oncology Group Data Center, without the intervention of investigators. Interventions were not masked for patients or investigators. Data were collected 10 years after enrolment of the last patient. The primary endpoint of the phase 3 part of the study was progression-free survival, and the primary endpoint of the phase 2 part of the study was the proportion of patients who achieved a complete response. Accrual was 4.5 years, and follow-up was 3 years after registration was closed. Data were updated on the cutoff date of Feb 28, 2017. Intention-to-treat analyses (ie, progression-free survival, overall survival, and incidence of secondary malignancies) were predefined, to be done at 10 years after the last patient was enrolled. An additional analysis of the incidence of histological transformation was defined 15 years after the protocol, on May 8, 2017, in a supplementary analysis plan, and assessed at 10 years after the last patient was enrolled. Follow-up is ongoing. This trial is registered with ClinicalTrials.gov, number NCT00147121. Finding(s): Between Sept 1, 2002, and Feb 28, 2007, 300 patients were enrolled, and 149 (50%) were assigned to the R-CHOP-21 group and 151 (50%) were assigned to the R-CHOP-14 group. After eligibility was assessed, one patient was excluded from the R-CHOP-21 group. 10-year progression-free survival was not different between groups (R-CHOP-21 33%, 95% CI 25-41; R-CHOP-14 39%, 31-47; hazard ratio 0.89, 95% CI 0.67-1.17). In 248 patients with grade 1-3a follicular lymphoma, progression-free survival was 39% (33-45) at 8 years and 36% (30-42) at 10 years. The cumulative incidence of histological transformation was 3.2% (95% CI 1.5-6.0) at 5 years, 8.5% (5.4-12.4) at 8 years, and 9.3% (6.1-13.4) at 10 years after enrolment. At 10 years, the cumulative incidence of secondary malignancies was 8.1% (5.1-12.0) and the cumulative incidence of haematological secondary malignancies was 2.9% (1.3-5.5). Interpretation(s): R-CHOP is a viable option for first-line treatment in patients with newly diagnosed advanced follicular lymphoma. Clinicians choosing a first-line treatment for patients with follicular lymphoma should be cautious of secondary malignancies caused by immunochemotherapy and severe complications of infectious diseases in the long-term follow-up-both of which could lead to death. Funding(s): National Cancer Center and Ministry of Health, Labour and Welfare of Japan.Copyright © 2018 Elsevier Ltd
+DO  - https://dx.doi.org/10.1016/S2352-3026%2818%2930155-8     ZM  - svm     ZS  - 3.543209733500662     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JOUR
+AN  - rayyan-986592307
+TI  - Treatment of lymphoma with targeted internal radiation therapy&#x0D; (Betalutin)
+Y1  - 2014
+AU  - Nordic Nanovector
+AU  - A. S. A. Yes
+AU  - EUCTR2011-000033-36-CZ
+UR  - https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2011-000033-36
+CY  - Information Desk <Contact_Lastname/>     Kjelsåsveien 168B     mail@nordicnanovector.com     +4722183301 </Contact_Tel>     Nordic Nanovector ASA     Kreftforeningen;Skattefunn;Innovation Norway <Ethics_review_status>Approved </Ethics_review_status> <Ethics_review_approval_date>19/01/2015 </Ethics_review_approval_date> <Ethics_review_contact_name/> <Ethics_review_contact_address/> <Ethics_review_contact_phone/> <Ethics_review_contact_email/> <results_url_link/> </Trial>
+KW  - Lymphoma
+AB  - Inclusion criteria: Part A (phase I and phase IIa) and Part C (phase IIa Pharmacokinetics Cohort):&#x0D; 1. Histologically confirmed (by WHO classification) relapsed incurable non-Hodgkin B-cell lymphoma of following subtypes; follicular grade I-IIIA (for Part C, this excludes patients meeting Part B criteria, who should enter Part B), marginal zone, small lymphocytic, lymphoplasmacytic, mantle cell. &#x0D; 2. Age = 18 years. &#x0D; 3. Part A: A pre-study WHO performance status of 0-1, Part C: WHO performance status of 0-2. &#x0D; 4. Life expectancy should be = 3 months. &#x0D; 5. &lt;25% tumour cells in bone marrow biopsy (biopsy taken from a site not previously irradiated).&#x0D; 6. Measurable disease by radiological methods.&#x0D; 7. Women of childbearing potential must:&#x0D; a) understand that the study medication is expected to have teratogenic risk.&#x0D; b) have a negative pregnancy test.&#x0D; c) agree to use, and be able to comply with, effective contraception without interruption, 4 weeks before starting study drug, throughout study drug therapy and for 12 months after end of study medication therapy, even if she has amenorrhoea.&#x0D; 8. Male subjects must agree to use condoms during intercourse throughout study drug therapy and the following 12 months.&#x0D; 9. Patients previously treated with native rituximab are eligible. &#x0D; 10. The patient is willing and able to comply with the protocol, and agrees to return to the hospital for follow-up visits and examination.&#x0D; 11. The patient has been fully informed about the study and has signed the informed consent form.&#x0D; &#x0D; Part B (FL phase IIb):&#x0D; 1. Histologically confirmed (by WHO classification) relapsed non-Hodgkin B-cell FL (grade I-IIIA).&#x0D; 2. Male or female aged = 18 years.&#x0D; 3. Received at least 2 prior systemic anti-neoplastic or immunotherapy-based regimens (maintenance therapy following a CR/PR is not considered to be a separate line of therapy). Systemic regimens including agents such as idelalisib or other PI3K inhibitors qualify as a prior line of therapy.&#x0D; 4. Prior therapy must have included rituximab/anti-CD20 agent and an alkylating agent - which may be been administered in separate regimens. &#x0D; 5. Patients must be refractory to any at least one previous regimen that contained rituximab or an anti-CD20 agent, with refractoriness defined as:&#x0D; i. no response (no CR or PR) during therapy, or&#x0D; ii. a response (CR/PR) lasting less than 6 months after the completion of a regimen including rituximab/anti-CD20 therapy (including occurrence of progressive disease (PD) during rituximab/anti-CD20 maintenance therapy, or within 6 months of completion of maintenance therapy).&#x0D; 6. WHO performance status of 0-2.&#x0D; 7. Life expectancy of = 3 months.&#x0D; 8. Bone marrow tumour infiltration &lt; 25% (in biopsy taken from a site not previously irradiated).&#x0D; 9. Measurable disease by CT or MRI: longest diameter (LDi) &gt; 1.5 cm for nodal lesion, LDi &gt; 1.0 cm for extra nodal lesion on an assessment performed during the screening period.&#x0D; Criteria 10 and 11 must be satisfied within 72 hours of the administration of rituximab:&#x0D; 10. ANC = 1.5 x 109/L.&#x0D; 11. Platelet count = 100 x 109/L.&#x0D; Criteria 12 to 15 must be verified at time of eligibility review within 2 weeks prior to rituximab administration:&#x0D; 12. Haemoglobin = 9.0 g/dL.&#x0D; 13. Total bilirubin =1.5 x upper limit of normal (ULN) (except patients with documented Gilbert’s syndrome [&lt; 3.0 mg/dL]).&#x0D; 14. Liver enzymes: Aspartate transaminase (AST); Alanine transaminase (ALT) or ALP = 2.5 x ULN (or = 5.0 x ULN with liver involvement by pr     Exclusion criteria: Part A and Part C (phase IIa Pharmacokinetic Cohort):&#x0D; 1. Medical contraindications, including uncontrolled infection, severe cardiac, pulmonary, neurologic, psychiatric or metabolic disease, uncontrolled asthma/allergy requiring systemic steroids, known HIV positive.&#x0D; 2. Laboratory values within 15 days pre-registration: &#x0D; a. Absolute Neutrophil Counts (ANC) = 1.5 x 109 /l. &#x0D; b. Part A: Platelet count = 150 x 109 /L, Part C: Platelet count &lt;150x109/L.&#x0D; For Part C, criteria 2a and 2b must be satisfied within 72 hours of the administration of rituximab&#x0D; c. Total bilirubin = 30 mmol/l (Part A only).&#x0D; Total bilitubin &gt; 1.5xULN (except patients with documented Gilbert´s syndrome [=3.0 mg/dL]) (Part C only).&#x0D; d. ALP and ALAT = 4x normal level (Part A only).&#x0D; Aspartate transaminase (AST), ALT or ALP &gt;2.5xULN (or &gt;5.0xULN with liver involvement by primary disease). (Part C only).&#x0D; e. Creatinine = 115 µmol/l (men), 97 µmol/l (women) (Part A only).&#x0D; Serum creatinine =1.5xULN (Part C only).&#x0D; f. Haemoglobin &lt;9.0 g/dL (Part C only).&#x0D; 3. Known CNS involvement of lymphoma. &#x0D; 4. Previous total body irradiation.&#x0D; 5. Positive test for HAMA at screening. &#x0D; 6. Chemotherapy or immunotherapy received within the last 4 weeks prior to start of study treatment. Pre-treatment with rituximab is allowed.&#x0D; 7. Pregnant or lactating women.&#x0D; 8. Previous hematopoietic stem cell transplantation (autologous and allogenic).&#x0D; 9. Part A: Previous treatment with radioimmunotherapy. Part C: Not applicable.&#x0D; 10. Actively participating in another study or received an investigational drug within 4 weeks prior to enrolment.&#x0D; 11. Receipt of live, attenuated vaccine within 30 days prior to enrolment.&#x0D; 12. Part A and Part C: Test positive for hepatitis B (HBsAg and anti-HBc). Part C only: Test positive for hepatitis C and HIV.&#x0D; 13. A known hypersensitivity to rituximab, lilotomab, Betalutin or murine proteins or any excipient used in rituximab, lilotomab or Betalutin.&#x0D; &#x0D; Part B:&#x0D; 1. Prior hematopoietic allogenic stem cell transplantation.&#x0D; 2. Patients with a prior autologous stem cell transplanted (SCT) are excluded unless at least two years have elapsed since transplantation.&#x0D; 3. Evidence of histological transformation from FL to diffuse large B-cell lymphoma (DLBCL) at time of screening (transformation to grade IIIB that was successfully treated with recurrence of grade I-IIIA initial clone is accepted).&#x0D; 4. Previous total body irradiation.&#x0D; 5. Prior anti-lymphoma therapy (chemotherapy, immunotherapy or other systemic agent including any investigational agent) within 4 weeks prior to start of study treatment (corticosteroid treatment at doses of = 20 mg/day, topical or inhaled corticosteroids, granulocyte colony-stimulating factor [G-CSF] or granulocytemacrophage colony-stimulating factor [GM-CSF] are permitted up to 2 weeks prior to start of rituximab). &#x0D; 6. Patients who are receiving any other investigational medicinal products.&#x0D; 7. Patients with known or suspected CNS involvement of lymphoma.&#x0D; 8. History of malignancy other than FL within 5 years prior screening, (i.e. patients with cancer diagnosed within 5 years prior to screening or who were diagnosed prior to 5 years and were not in CR or were on treatment within 5 years prior to screening), with the exception of malignancies with a negligible risk of metastasis or death (e.g. 5-year OS rate &gt;90%), such as adequately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, localized prostate cancer, ductal ca <Condition>Non-Hodgkin B-cell lymphoma&#x0D; Part A: Relapsed indolent Non-Hodgkin B-cell lymphoma &#x0D; Part B: Relapsed follicular lymphoma&#x0D; Part C: Relapsed indolent Non-Hodgkin B-cell lymphoma MedDRA version: 22.0 Level: PT Classification code 10029547 Term: Non-Hodgkin's lymphoma System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps) ;Therapeutic area: Diseases [C] - Cancer [C04] </Condition>     Product Name: Betalutin Product Code: Lutetium (177Lu)-lilotomab satetraxetan Pharmaceutical Form: Solution for injection INN or Proposed INN: Lutetium (177Lu)-lilotomab satetraxetan CAS Number: 1453362-90-7 Current Sponsor code: 177Lu-DOTA-HH1 Other descriptive name: 177LU-TETRAXETAN-TETULOMAB Concentration unit: MBq/ml megabecquerel(s)/millilitre Concentration type: equal Concentration number: 395- Product Name: Lilotomab Product Code: HH1 Pharmaceutical Form: Concentrate for solution for infusion INN or Proposed INN: Lilotomab CAS Number: 1453362-55-4 Current Sponsor code: HH1 Other descriptive name: TETULOMAB Concentration unit: mg/ml milligram(s)/millilitre Concentration type: equal Concentration number: 5- Trade Name: MabThera Product Name: MabThera Pharmaceutical Form: Concentrate for solution for infusion INN or Proposed INN: RITUXIMAB CAS Number: 174722-31-7 Current Sponsor code: not applicable Other descriptive name: not applicable Concentration unit: mg milligram(s) Concentration type: equal Concentration number: 100- Trade Name: MabThera Product Name: MabThera Pharmaceutical Form: Concentrate for solution for infusion INN or Proposed INN: RITUXIMAB CAS Number: 174722-31-7 Concentration unit: mg milligram(s) Concentration type: equal Concentration number: 500-     Timepoint(s) of evaluation of this end point: From baseline until 60 months post injection;Main Objective: Part A: Phase I (Arms 1, 2, 3, 4 and 5): To define MTD of Betalutin Phase IIa: To explore tumour response rates in patients receiving Betalutin. Part B (FL phase IIb "PARADIGME"): Randomised section of Part B To evaluate the efficacy of the "40/15" dose regimen (40 mg lilotomab / 15 MBq/kg Betalutin) compared with "100/20" dose regimen (100 mg/m2 lilotomab/ 20 MBq/kg Betalutin) based on an Independent Review Committee (IRC) assessment of tumour response rates in adult patients with relapsed rituximab/anti-CD20-refractory follicular lymphoma. Selected regimen for further development To evaluate the ORR of the regimen selected for further development based on the IRC assessment of tumour response rates in adult patients with relapsed rituximab/anti-CD20 refractory FL. Part C, phase IIa (Pharmacokinetic Cohort): To further characterise the pharmacokinetics of Betalutin (total radioactivity measurements in blood) and total lilotomab antibodies (antibodies measured in serum);Secondary Objective: Part A: Phase I (Arms 1, 2, 3, 4 and 5): To establish recommended dose of Betalutin for phase IIa, investigate safety, toxicity, biodistribution, pharmacokinetics and to explore the efficacy. Phase IIa: to confirm the recommended dose of Betalutin from Part A, phase I, investigate safety and toxicity, estimate progression free survival and overall survival, quality of life. Part B: To compare the "40/15" and "100/20" treatment regimens in the randomised section and to evaluate the regimen selected for further development, in terms of the following: Efficacy • ORR by investigator assessment • CRR by independent review and investigator assessment • DoR by independent review and investigator assessment • DoCR by independent review and investigator assessment • PFS by independent review and investigator assessment • OS Safety • incidence and severity of events (AEs). Part C, phase IIa: • To investigate safety and toxicity. To explore efficacy. ;Primary end point(s): Part A: • Incidence and severity of adverse events and serious adverse events graded according to the National Cancer Institute – Common Terminology Criteria for Adverse Events (CTCAE version 4). • Changes from baseline in laboratory variables: haematology and serum biochemistry. • Changes from baseline in body temperature and vital signs (systolic/diastolic blood pressure and heart rate) during the treatment period. • Changes from baseline in physical examination during the treatment period. Part B: • Overall response rate (ORR) as assessed by an independent reviewer based on Cheson criteria (version 2014). Part C: Pharmacokinetic assessment e.g. total lilotomab antibodies measurements in serum (total lilotomab antibodies pharmacokinetics) and total radioactivity measurements in blood (Betalutin pharmacokinetics).     Timepoint(s) of evaluation of this end point: From baseline and up to 5 years post injection;Secondary end point(s): Part A:&#x0D; • Incidence of potential late toxicity, such as new primary cancers and bone marrow changes (acute myelogenous leukaemia, myelodysplastic syndrome, and aplastic anaemia).&#x0D; • Overall survival.&#x0D; • Estimation of whole-body retention of radioactivity at each imaging time post-injection.&#x0D; • Estimation of the individual organ uptake/retention of radioactivity at each imaging time-point after injection.&#x0D; • Estimate retention of administered radioactivity in blood.&#x0D; • Calculation of estimated absorbed radiation dose to target organs.&#x0D; • Tumour response rate.&#x0D; • Tumour response duration.&#x0D; • Progression-free survival&#x0D; • Performance status defined as improvement or worsening, respectively, by 1-point or more on the ECOG scale from the baseline value&#x0D; • Quality of life (QoL) assessed using Functional Assessment of Cancer Therapy–Lymphoma (FACT-Lym) questionnaire&#x0D; Part B:&#x0D; • Incidence and severity of AEs&#x0D; Efficacy:&#x0D; • ORR by investigator assessment.&#x0D; • CRR by independent review and investigator assessment.&#x0D; • DoR by independent review and investigator assessment.&#x0D; • DoCR by independent review and investigator assessment.&#x0D; • PFS by independent review and investigator assessment.&#x0D; • OS.&#x0D; • Change from baseline in the sum of the product of the greatest perpendicular diameters (SPD) of target lymph nodes as documented&#x0D; radiographically.&#x0D; &#x0D; Part C:&#x0D; • Incidence and severity of AEs.&#x0D; • Tumour response rate.&#x0D; • Tumour response duration.&#x0D; • OS.     ZM  - svm     ZS  - 0.9531517727740516     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986591820
+TI  - Hematopoietic stem cell transplantation using single UM171-expanded cord blood: a single-arm, phase 1-2 safety and feasibility study
+Y1  - 2020
+T2  - The Lancet Haematology
+SN  - 2352-3026
+VL  - 7
+IS  - 2
+AU  - Cohen S.
+AU  - Roy J.
+AU  - Lachance S.
+AU  - Delisle J.-S.
+AU  - Marinier A.
+AU  - Busque L.
+AU  - Roy D.-C.
+AU  - Barabe F.
+AU  - Ahmad I.
+AU  - Bambace N.
+AU  - Bernard L.
+AU  - Kiss T.
+AU  - Bouchard P.
+AU  - Caudrelier P.
+AU  - Landais S.
+AU  - Larochelle F.
+AU  - Chagraoui J.
+AU  - Lehnertz B.
+AU  - Corneau S.
+AU  - Tomellini E.
+AU  - van Kampen J.J.A.
+AU  - Cornelissen J.J.
+AU  - Dumont-Lagace M.
+AU  - Tanguay M.
+AU  - Li Q.
+AU  - Lemieux S.
+AU  - Zandstra P.W.
+AU  - Sauvageau G.
+UR  - ["http://www.journals.elsevier.com/the-lancet-haematology/", "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2004744462"]
+LA  - English
+PB  - Elsevier Ltd
+CY  - S. Cohen, Division of Haematology, Maisonneuve-Rosemont Hospital, Montreal, QC H1T 2M4, Canada. E-mail: sandra.cohen@umontreal.ca
+KW  - acute graft versus host disease/si [Side Effect]
+KW  - acute leukemia/dt [Drug Therapy]
+KW  - acute lymphoblastic leukemia/dt [Drug Therapy]
+KW  - acute lymphoblastic leukemia/rt [Radiotherapy]
+KW  - acute lymphoblastic leukemia/th [Therapy]
+KW  - acute myeloid leukemia/dt [Drug Therapy]
+KW  - acute myeloid leukemia/rt [Radiotherapy]
+KW  - acute myeloid leukemia/th [Therapy]
+KW  - adenovirus infection/dt [Drug Therapy]
+KW  - adult
+KW  - alanine aminotransferase blood level
+KW  - *allogeneic hematopoietic stem cell transplantation
+KW  - article
+KW  - artificial ventilation
+KW  - bacteremia/si [Side Effect]
+KW  - bilirubin blood level
+KW  - bk virus infection/si [Side Effect]
+KW  - body weight
+KW  - bronchiolitis obliterans organizing pneumonia/dt [Drug Therapy]
+KW  - bronchiolitis obliterans organizing pneumonia/si [Side Effect]
+KW  - Canada
+KW  - cancer patient
+KW  - CD34 selection
+KW  - chronic graft versus host disease/si [Side Effect]
+KW  - chronic lymphatic leukemia/dt [Drug Therapy]
+KW  - chronic lymphatic leukemia/rt [Radiotherapy]
+KW  - chronic lymphatic leukemia/th [Therapy]
+KW  - Clostridium difficile infection/si [Side Effect]
+KW  - cohort analysis
+KW  - comorbidity
+KW  - controlled study
+KW  - *cord blood stem cell transplantation
+KW  - corticosteroid therapy
+KW  - creatinine blood level
+KW  - cystitis/dt [Drug Therapy]
+KW  - cystitis/si [Side Effect]
+KW  - cytomegalovirus infection/si [Side Effect]
+KW  - device infection/si [Side Effect]
+KW  - diarrhea/si [Side Effect]
+KW  - drug dose escalation
+KW  - drug efficacy
+KW  - drug safety
+KW  - drug withdrawal
+KW  - engraftment
+KW  - engraftment syndrome/dt [Drug Therapy]
+KW  - engraftment syndrome/si [Side Effect]
+KW  - Epstein Barr virus infection/dt [Drug Therapy]
+KW  - Epstein Barr virus infection/si [Side Effect]
+KW  - fatigue/si [Side Effect]
+KW  - feasibility study
+KW  - febrile neutropenia/si [Side Effect]
+KW  - febrile neutropenia/th [Therapy]
+KW  - female
+KW  - follow up
+KW  - graft failure
+KW  - graft versus host reaction/dt [Drug Therapy]
+KW  - graft versus host reaction/pc [Prevention]
+KW  - *hematologic malignancy/dt [Drug Therapy]
+KW  - *hematologic malignancy/rt [Radiotherapy]
+KW  - *hematologic malignancy/th [Therapy]
+KW  - herpes virus infection/si [Side Effect]
+KW  - herpes zoster/pc [Prevention]
+KW  - HLA matching
+KW  - human
+KW  - hypertension/si [Side Effect]
+KW  - hypokalemia/si [Side Effect]
+KW  - hypomagnesemia/si [Side Effect]
+KW  - hyponatremia/si [Side Effect]
+KW  - hypophosphatemia/si [Side Effect]
+KW  - immunosuppressive treatment
+KW  - Karnofsky Performance Status
+KW  - lactate dehydrogenase blood level
+KW  - lung edema/si [Side Effect]
+KW  - lung hemorrhage/si [Side Effect]
+KW  - lung hemorrhage/th [Therapy]
+KW  - lung mycosis/pc [Prevention]
+KW  - lung mycosis/si [Side Effect]
+KW  - lymphocyte
+KW  - major clinical study
+KW  - male
+KW  - mucosa inflammation/si [Side Effect]
+KW  - multicenter study
+KW  - multiple myeloma/dt [Drug Therapy]
+KW  - multiple myeloma/rt [Radiotherapy]
+KW  - multiple myeloma/th [Therapy]
+KW  - myelitis/si [Side Effect]
+KW  - myeloablative conditioning
+KW  - myelodysplastic syndrome/dt [Drug Therapy]
+KW  - myelodysplastic syndrome/rt [Radiotherapy]
+KW  - myelodysplastic syndrome/th [Therapy]
+KW  - myeloproliferative disorder/dt [Drug Therapy]
+KW  - myeloproliferative disorder/rt [Radiotherapy]
+KW  - myeloproliferative disorder/th [Therapy]
+KW  - nausea/si [Side Effect]
+KW  - neutropenia/si [Side Effect]
+KW  - neutrophil
+KW  - nonhodgkin lymphoma/dt [Drug Therapy]
+KW  - nonhodgkin lymphoma/rt [Radiotherapy]
+KW  - nonhodgkin lymphoma/th [Therapy]
+KW  - open study
+KW  - outcome assessment
+KW  - parenteral nutrition
+KW  - patient safety
+KW  - pericarditis/si [Side Effect]
+KW  - phase 1 clinical trial
+KW  - phase 2 clinical trial
+KW  - Pneumocystis pneumonia/dt [Drug Therapy]
+KW  - Pneumocystis pneumonia/pc [Prevention]
+KW  - Pneumocystis pneumonia/si [Side Effect]
+KW  - pneumonia/si [Side Effect]
+KW  - posttransplant lymphoproliferative disease
+KW  - recurrence free survival
+KW  - respiratory failure/th [Therapy]
+KW  - side effect/si [Side Effect]
+KW  - *stem cell expansion
+KW  - thrombocyte
+KW  - thrombocytopenia/si [Side Effect]
+KW  - thrombotic thrombocytopenic purpura/si [Side Effect]
+KW  - treatment duration
+KW  - treatment outcome
+KW  - *umbilical cord blood
+KW  - urinary tract infection/si [Side Effect]
+KW  - viremia
+KW  - virus infection/si [Side Effect]
+KW  - whole body radiation
+KW  - alanine aminotransferase/ec [Endogenous Compound]
+KW  - atovaquone/dt [Drug Therapy]
+KW  - bilirubin/ec [Endogenous Compound]
+KW  - busulfan/dt [Drug Therapy]
+KW  - busulfan/po [Oral Drug Administration]
+KW  - busulfan/pk [Pharmacokinetics]
+KW  - calcineurin inhibitor/cb [Drug Combination]
+KW  - calcineurin inhibitor/dt [Drug Therapy]
+KW  - CD34 antigen/ec [Endogenous Compound]
+KW  - *cell therapy agent/ae [Adverse Drug Reaction]
+KW  - *cell therapy agent/do [Drug Dose]
+KW  - *cell therapy agent/dt [Drug Therapy]
+KW  - cidofovir/dt [Drug Therapy]
+KW  - cidofovir/iv [Intravenous Drug Administration]
+KW  - corticosteroid/dt [Drug Therapy]
+KW  - creatinine/ec [Endogenous Compound]
+KW  - cyclophosphamide/cb [Drug Combination]
+KW  - cyclophosphamide/dt [Drug Therapy]
+KW  - fludarabine/cb [Drug Combination]
+KW  - fludarabine/dt [Drug Therapy]
+KW  - lactate dehydrogenase/ec [Endogenous Compound]
+KW  - mycophenolate mofetil/cb [Drug Combination]
+KW  - mycophenolate mofetil/dt [Drug Therapy]
+KW  - recombinant granulocyte colony stimulating factor/dt [Drug Therapy]
+KW  - rituximab/dt [Drug Therapy]
+KW  - thiotepa/cb [Drug Combination]
+KW  - thiotepa/dt [Drug Therapy]
+KW  - thymocyte antibody/dt [Drug Therapy]
+KW  - unclassified drug
+KW  - *um 171/ae [Adverse Drug Reaction]
+KW  - *um 171/do [Drug Dose]
+KW  - *um 171/dt [Drug Therapy]
+KW  - Hematopoietic Stem Cells
+KW  - Hematopoietic Stem Cell Transplantation
+KW  - Stem Cell Transplantation
+KW  - Feasibility Studies
+KW  - Stem Cells
+KW  - Fetal Blood
+AB  - Background: Benefits of cord blood transplantation include low rates of relapse and chronic graft-versus-host disease (GVHD). However, the use of cord blood is rapidly declining because of the high incidence of infections, severe acute GVHD, and transplant-related mortality. UM171, a haematopoietic stem cell self-renewal agonist, has been shown to expand cord blood stem cells and enhance multilineage blood cell reconstitution in mice. We aimed to investigate the safety and feasibility of single UM171-expanded cord blood transplantation in patients with haematological malignancies who do not have a suitable HLA-matched donor. Method(s): This single-arm, open-label, phase 1-2 safety and feasibility study was done at two hospitals in Canada. The study had two parts. In part 1, patients received two cord blood units (one expanded with UM171 and one unmanipulated cord blood) until UM171-expanded cord blood demonstrated engraftment. Once engraftment was documented we initiated part 2, reported here, in which patients received a single UM171-expanded cord blood unit with a dose de-escalation design to determine the minimal cord blood unit cell dose that achieved prompt engraftment. Eligible patients were aged 3-64 years, weighed 12 kg or more, had a haematological malignancy with an indication for allogeneic hematopoietic stem cell transplant and did not have a suitable HLA-matched donor, and a had a Karnofsky performance status score of 70% or more. Five clinical sites were planned to participate in the study; however, only two study sites opened, both of which only treated adult patients, thus no paediatric patients (aged <18 years) were recruited. Patients aged younger than 50 years without comorbidities received a myeloablative conditioning regimen (cyclophosphamide 120 mg/kg, fludarabine 75 mg/m2, and 12 Gy total body irradiation) and patients aged older than 50 years and those with comorbidities received a less myeloablative conditioning regimen (cyclophosphamide 50 mg/kg, thiotepa 10 mg/kg, fludarabine 150 mg/m2, and 4 Gy total body irradiation). Patients were infused with the 7-day UM171-expanded CD34-positive cells and the lymphocyte-containing CD34-negative fraction. The primary endpoints were feasibility of UM171 expansion, safety of the transplant, kinetics of hematopoietic reconstitution (time to neutrophil and platelet engraftment) of UM171-expanded cord blood, and minimal pre-expansion cord blood unit cell dose that achieved prompt engraftment. We analysed feasibility in all enrolled patients and all other primary outcomes were analysed per protocol, in all patients who received single UM171-expanded cord blood transplantation. This trial has been completed and was registered with ClinicalTrials.gov, NCT02668315. Finding(s): Between Feb 17, 2016, and Nov 11, 2018, we enrolled 27 patients, four of whom received two cord blood units for safety purposes in part 1 of the study. 23 patients were subsequently enrolled in part 2 to receive a single UM171-expanded cord blood transplant and 22 patients received a single UM171-expanded cord blood transplantation. At data cutoff (Dec 31, 2018), median follow-up was 18 months (IQR 12-22). The minimal cord blood unit cell dose at thaw that achieved prompt engraftment as a single cord transplant after UM171 expansion was 0.52 x 105 CD34-positive cells. We successfully expanded 26 (96%) of 27 cord blood units with UM171. Among the 22 patients who received single UM171-expanded cord blood transplantation, median time to engraftment of 100 neutrophils per muL was 9.5 days (IQR 8-12), median time to engraftment of 500 neutrophils per muL was 18 days (12.5-20.0), and no graft failure occurred. Median time to platelet recovery was 42 days (IQR 35-47). The most common non-haematological adverse events were grade 3 febrile neutropenia (16 [73%] of 22 patients) and bacteraemia (nine [41%]). No unexpected adverse events were observed. One (5%) of 22 patients died due to treatment-related diffuse alveolar haemorrhage. Interpretation(s): Our preliminary findings suggest that UM171 cord blood stem cell expansion is feasible, safe, and allows for the use of small single cords without compromising engraftment. UM171-expanded cord blood might have the potential to overcome the disadvantages of other cord blood transplants while maintaining the benefits of low risk of chronic GVHD and relapse, and warrants further investigation in randomised trials. Funding(s): Canadian Institutes of Health Research, Canadian Cancer Society and Stem Cell Network.Copyright © 2020 Elsevier Ltd
+DO  - https://dx.doi.org/10.1016/S2352-3026%2819%2930202-9     ZM  - svm     ZS  - 1.068010248538811     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986592746
+TI  - A randomised multicentre trial of modified CHOP versus MCOP in patients aged 65 years and over with aggressive non-Hodgkin's lymphoma
+Y1  - 2003
+T2  - Annals of Oncology
+SN  - 0923-7534
+VL  - 14
+IS  - 2
+AU  - Bessell E.M.
+AU  - Burton A.
+AU  - Haynes A.P.
+AU  - Glaholm J.
+AU  - Child J.A.
+AU  - Cullen M.H.
+AU  - Davies J.M.
+AU  - Smith G.M.
+AU  - Ellis I.O.
+AU  - Jack A.
+AU  - Jones E.L.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed8&NEWS=N&AN=36305438
+LA  - English
+PB  - Oxford University Press (Great Clarendon Street, Oxford OX2 6DP, United Kingdom)
+CY  - E.M. Bessel, Department of Clinical Oncology, Nottingham City Hospital, Hucknall Road, NG5 1PB Nottingham, United Kingdom. E-mail: ebessell@ncht.trent.nhs.uk
+KW  - age
+KW  - aged
+KW  - alopecia/si [Side Effect]
+KW  - article
+KW  - bone marrow suppression/si [Side Effect]
+KW  - cancer center
+KW  - cancer combination chemotherapy
+KW  - cancer radiotherapy
+KW  - cancer regression
+KW  - cancer staging
+KW  - cancer survival
+KW  - clinical trial
+KW  - confidence interval
+KW  - controlled clinical trial
+KW  - controlled study
+KW  - diarrhea/si [Side Effect]
+KW  - dose response
+KW  - erythrocyte transfusion
+KW  - female
+KW  - follow up
+KW  - heart disease/si [Side Effect]
+KW  - human
+KW  - leukocyte count
+KW  - leukopenia/si [Side Effect]
+KW  - major clinical study
+KW  - male
+KW  - medical documentation
+KW  - multicenter study
+KW  - nausea and vomiting/dt [Drug Therapy]
+KW  - nausea and vomiting/pc [Prevention]
+KW  - nausea and vomiting/si [Side Effect]
+KW  - neutropenia/si [Side Effect]
+KW  - *nonhodgkin lymphoma/di [Diagnosis]
+KW  - *nonhodgkin lymphoma/dt [Drug Therapy]
+KW  - *nonhodgkin lymphoma/rt [Radiotherapy]
+KW  - *nonhodgkin lymphoma/th [Therapy]
+KW  - priority journal
+KW  - radiation dose
+KW  - randomized controlled trial
+KW  - septicemia/si [Side Effect]
+KW  - statistical significance
+KW  - stomatitis/si [Side Effect]
+KW  - survival rate
+KW  - symptomatology
+KW  - United Kingdom
+KW  - cancer growth factor/ec [Endogenous Compound]
+KW  - *cyclophosphamide/ae [Adverse Drug Reaction]
+KW  - *cyclophosphamide/ct [Clinical Trial]
+KW  - *cyclophosphamide/cb [Drug Combination]
+KW  - *cyclophosphamide/cm [Drug Comparison]
+KW  - *cyclophosphamide/do [Drug Dose]
+KW  - *cyclophosphamide/dt [Drug Therapy]
+KW  - *cyclophosphamide/iv [Intravenous Drug Administration]
+KW  - dexamethasone/do [Drug Dose]
+KW  - dexamethasone/dt [Drug Therapy]
+KW  - dexamethasone/iv [Intravenous Drug Administration]
+KW  - *doxorubicin/ae [Adverse Drug Reaction]
+KW  - *doxorubicin/ct [Clinical Trial]
+KW  - *doxorubicin/cb [Drug Combination]
+KW  - *doxorubicin/cm [Drug Comparison]
+KW  - *doxorubicin/do [Drug Dose]
+KW  - *doxorubicin/dt [Drug Therapy]
+KW  - *doxorubicin/iv [Intravenous Drug Administration]
+KW  - methotrexate/dt [Drug Therapy]
+KW  - methotrexate/tl [Intrathecal Drug Administration]
+KW  - metoclopramide/do [Drug Dose]
+KW  - metoclopramide/dt [Drug Therapy]
+KW  - metoclopramide/iv [Intravenous Drug Administration]
+KW  - metoclopramide/po [Oral Drug Administration]
+KW  - *mitoxantrone/ae [Adverse Drug Reaction]
+KW  - *mitoxantrone/ct [Clinical Trial]
+KW  - *mitoxantrone/cb [Drug Combination]
+KW  - *mitoxantrone/cm [Drug Comparison]
+KW  - *mitoxantrone/do [Drug Dose]
+KW  - *mitoxantrone/dt [Drug Therapy]
+KW  - *mitoxantrone/iv [Intravenous Drug Administration]
+KW  - *prednisolone/ae [Adverse Drug Reaction]
+KW  - *prednisolone/ct [Clinical Trial]
+KW  - *prednisolone/cb [Drug Combination]
+KW  - *prednisolone/cm [Drug Comparison]
+KW  - *prednisolone/do [Drug Dose]
+KW  - *prednisolone/dt [Drug Therapy]
+KW  - *prednisolone/po [Oral Drug Administration]
+KW  - *vincristine/ae [Adverse Drug Reaction]
+KW  - *vincristine/ct [Clinical Trial]
+KW  - *vincristine/cb [Drug Combination]
+KW  - *vincristine/cm [Drug Comparison]
+KW  - *vincristine/do [Drug Dose]
+KW  - *vincristine/dt [Drug Therapy]
+KW  - *vincristine/iv [Intravenous Drug Administration]
+KW  - Hodgkin Disease
+KW  - Lymphoma, Non-Hodgkin
+KW  - Multicenter Studies as Topic
+KW  - Aggression
+AB  - Background: The aim of this study was to determine in a randomised trial whether there is any significant difference in toxicity between modified CHOP and MCOP chemotherapy in elderly patients with aggressive non-Hodgkin's lymphoma (NHL) and to determine whether this reduced dose chemotherapy can be administered with full dose intensity, low toxicity and produce acceptable survival. Patients and Methods: Between 1993 and 2000, 155 eligible patients were randomised into this trial mainly from three centres (Nottingham, Birmingham and Leeds, UK). The patients were newly diagnosed with aggressive NHL and had a median age of 74 years (range 65-91 years). Ninety-six patients (62%) had bulky stage I or II disease; 59 patients (38%) had either stage III or IV disease; 77% had one or more extranodal sites involved at presentation; and 31% showed B symptoms. Seventy-seven patients were randomised to receive six cycles of modified CHOP (cyclophosphamide 600 mg/m2 i.v., doxorubicin 30 mg/m2 i.v., vincristine 1 mg i.v. all on day 1 with prednisolone 20 mg bd for days 1-5) every 21 days and 78 patients to MCOP (mitozantrone 10 mg/m2 i.v. substituted for doxorubicin). Growth factors were not used routinely. After completion of chemotherapy, 39 patients received involved field radiotherapy (35-40 Gy) in 20 fractions. Result(s): One hundred and one patients (65%) completed all six cycles of chemotherapy. The median course dose intensity was 97%. The median follow-up for 53 surviving patients was 51 months. The median survival was 19 months (95% confidence interval 10-36 months) with an actuarial survival of 47% at 2 years and 42% at 3 years (CHOP versus MCOP, P = 0.79). There was no significant difference in any of the toxicities experienced with either CHOP or MCOP, except for white cell count (46 patients on MCOP and 27 patients on CHOP had grade 3 or 4 toxicity, P = 0.002) and red cell transfusion (37 patients, MCOP; 17 patients, CHOP; P = 0.001). Grade 3 or 4 neutropenia was documented in 75 patients (50%). One patient died from toxicity whilst in remission and seven patients died with septicaemia and persistent NHL. Conclusion(s): This multicentre randomised trial provides further information on the dose intensity achievable with CHOP or MCOP regimens in elderly patients (median age 74 years) with aggressive NHL. These dose-reduced regimens can be given with nearly 100% dose intensity with 65% of patients completing all the treatment. Survival is comparable to that observed with the more intensive regimens given in this age group.
+DO  - https://dx.doi.org/10.1093/annonc/mdg067     ZM  - svm     ZS  - 2.8000388466777713     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986591446
+TI  - CHARACTERIZING ALLOGENEIC STEM CELL TRANSPLANTATION SAFETY IN PATIENTS WITH HEMATOLOGIC MALIGNANCIES AFTER PEMBROLIZUMAB THERAPY
+Y1  - 2022
+T2  - HemaSphere
+SN  - 2572-9241
+VL  - 6
+AU  - Kuruvilla J.
+AU  - Armand P.
+AU  - Herrera A.F.
+AU  - Ribrag V.
+AU  - Brice P.
+AU  - Thieblemont C.
+AU  - Von Tresckow B.
+AU  - Kim E.
+AU  - Marinello P.
+AU  - Chakraborty S.
+AU  - Orlowski R.
+AU  - Zinzani P.L.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=638939083
+LA  - English
+PB  - Lippincott Williams and Wilkins
+CY  - J. Kuruvilla, Princess Margaret Cancer Centre, Toronto, Canada
+KW  - acute graft versus host disease
+KW  - adult
+KW  - *allogeneic stem cell transplantation
+KW  - *cancer patient
+KW  - cancer recurrence
+KW  - cancer survival
+KW  - chronic graft versus host disease
+KW  - classical Hodgkin lymphoma
+KW  - clinical trial
+KW  - complication
+KW  - conference abstract
+KW  - controlled study
+KW  - critical illness
+KW  - cumulative incidence
+KW  - *drug safety
+KW  - drug therapy
+KW  - female
+KW  - follow up
+KW  - graft versus host reaction
+KW  - *hematologic malignancy
+KW  - human
+KW  - human tissue
+KW  - incidence
+KW  - Kaplan Meier method
+KW  - liver disease
+KW  - lung complication
+KW  - major clinical study
+KW  - male
+KW  - monotherapy
+KW  - mortality
+KW  - nonhodgkin lymphoma
+KW  - outcome assessment
+KW  - overall survival
+KW  - phase 1 clinical trial
+KW  - progression free survival
+KW  - remission
+KW  - risk assessment
+KW  - surgery
+KW  - endogenous compound
+KW  - lenalidomide
+KW  - *pembrolizumab
+KW  - programmed death 1 receptor
+KW  - Stem Cell Transplantation
+KW  - Hematologic Neoplasms
+AB  - Background: Although allogeneic stem cell transplantation (allo-SCT) and programmed cell death 1 (PD-1) blockade have separately shown efficacy in some lymphoid malignancies, the safety of allo-SCT after anti-PD-1 therapy in these patients remains a high clinical interest. Aim(s): We present data from an analysis from 4 KEYNOTE phase 1-3 studies to describe predetermined complications in patients who received allo-SCT following pembrolizumab therapy. Method(s): The analysis included patients from the KEYNOTE-013 (NCT01953692, n=20), KEYNOTE-087 (NCT02453594, n=31), KEYNOTE-170 (NCT02576990, n=5), and KEYNOTE-204 (NCT02684292, n=14) trials who have a known allo-SCT transplantation date received within 2 years of the last dose of study pembrolizumab. Descriptive statistics were used for predefined post-allo-SCT complications of interest. The cumulative incidence of acute grade 2-4 graft-versus-host disease (GVHD), acute grade 3-4 GVHD, and chronic GVHD was estimated. The corresponding competing risk events were death without acute grade 2-4 GVHD, death without acute grade 3-4 GVHD, and death without chronic GVHD, respectively. The cumulative incidence of post-allo-SCT transplantrelated mortality (TRM) was estimated with relapse as a competing risk. Progression-free survival (PFS) and overall survival (OS) were estimated by the Kaplan-Meier method. Result(s): Seventy patients were included in the analysis. Median age was 30 y (range, 18-65), 57 (81.4%) had classical Hodgkin lymphoma (cHL), and the rest had non-Hodgkin lymphoma. 69 of 70 (98.6%) patients received pembrolizumab monotherapy; 1 patient received pembrolizumab + lenalidomide. Median duration on study treatment was 5.3 months (range, 0.7-29.6) and median time from last pembrolizumab dose to first allo-SCT was 4.6 months (range, 1-20). Before transplantation, 49 patients (70.0%) had intervening anticancer regimen; 34 (48.6%) had active disease, 31 patients (44.3%) were in remission at time of transplant, and 5 patients (7.1%) had unknown disease status. Overall, 55 patients (78.6%) developed GVHD (acute, 38; chronic, 17). The estimated 6-month post-allo-SCT cumulative incidence was 0.41 (95% CI, 0.30-0.53) for grade II-IV acute GVHD and 0.20 (95% CI, 0.12-0.30) for grade III-IV acute GVHD; 1 year post-allo-SCT was 0.21 (95% CI, 0.12-0.31) for chronic GVHD. Other predetermined complications, including critical illness, immune-mediated adverse events, pulmonary complications, and veno-occlusive liver disease, occurred in 32 patients (45.7%). After a median follow-up (defined as the time from allo-SCT to data cutoff) of 40.1 months (range, 5.1-71.2), the post-allo-SCT median PFS was not reached (NR) (95% CI, 14.5-NR) and the 30-month post-allo-SCT PFS rate was 56.8% (95% CI, 42.9-68.5) (Figure A); median OS was NR (95% CI, NR-NR) and the OS rate at 12 months was 82.2% (Figure B). The estimated post-allo-SCT cumulative incidence for TRM at 6 months was 0.09 (95% CI, 0.03-0.17) and for relapse at 26 months was 0.27 (95% CI, 0.16- 0.38). PFS and OS outcomes were comparable in the subgroup of patients with cHL. Summary/Conclusion: The incidence of GVHD in this population is comparable to historical data (40%-80% and 30%-70%, respectively). The incidence of severe acute GVHD may be higher than a typical modern allo-SCT series, although TRM was low. The observed PFS and OS outcomes compare favorably to historical benchmarks (2-year PFS ranging from 45%-48%; 1-year OS >80%). Altogether, this analysis lends confidence that allo-SCT is feasible for patients with lymphoid malignancies after PD-1 blockade. (Figure Presented).
+DO  - https://dx.doi.org/10.1097/01.HS9.0000852292.38263.b8     ZM  - svm     ZS  - 0.461638894873269     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - Clinical Trial, Phase III
+AN  - rayyan-986591606
+TI  - Pixantrone dimaleate versus other chemotherapeutic agents as a single-agent salvage treatment in patients with relapsed or refractory aggressive non-Hodgkin lymphoma: a phase 3, multicentre, open-label, randomised trial.
+Y1  - 2012
+Y2  - 7
+T2  - The Lancet. Oncology
+SN  - 1474-5488 (Electronic)
+J2  - Lancet Oncol
+VL  - 13
+IS  - 7
+SP  - 696-706
+AU  - Pettengell R
+AU  - Coiffier B
+AU  - Narayanan G
+AU  - de Mendoza FH
+AU  - Digumarti R
+AU  - Gomez H
+AU  - Zinzani PL
+AU  - Schiller G
+AU  - Rizzieri D
+AU  - Boland G
+AU  - Cernohous P
+AU  - Wang L
+AU  - Kuepfer C
+AU  - Gorbatchevsky I
+AU  - Singer JW
+AV  - St George's Hospital, London, UK. rpetteng@sgul.ac.uk
+UR  - https://pubmed.ncbi.nlm.nih.gov/22652183/
+LA  - eng
+CY  - England
+KW  - Adolescent
+KW  - Adult
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Antineoplastic Agents/*therapeutic use
+KW  - Female
+KW  - Humans
+KW  - Isoquinolines/adverse effects/*therapeutic use
+KW  - Lymphoma, Non-Hodgkin/*drug therapy/mortality/physiopathology
+KW  - Male
+KW  - Middle Aged
+KW  - *Salvage Therapy
+KW  - Ventricular Function, Left/drug effects
+KW  - Hodgkin Disease
+KW  - Lymphoma, Non-Hodgkin
+KW  - Recurrence
+AB  - BACKGROUND: Pixantrone dimaleate (pixantrone)--a novel aza-anthracenedione--was synthesised to reduce anthracycline-related cardiotoxicity without compromising antitumour efficacy. We aimed to assess the efficacy and safety of pixantrone versus an investigator's choice of a single-agent therapy in heavily pretreated patients with relapsed or refractory aggressive non-Hodgkin lymphoma. METHODS: In this phase 3, multicentre, open-label, randomised trial at 66 hospitals in Europe, India, Russia, South America, the UK, and the USA, patients with histologically confirmed aggressive non-Hodgkin lymphoma who had relapsed after two or more previous chemotherapy regimens were randomly assigned (1:1) by an interactive voice response system to treatment with pixantrone dimaleate (85 mg/m(2) intravenously on days 1, 8, and 15 of a 28-day cycle, for up to six cycles) or to a comparator (vinorelbine, oxaliplatin, ifosfamide, etoposide, mitoxantrone, or gemcitabine) given at prespecified standard doses and schedules. Patients were stratified by region, International Prognostic Index score, and previous stem-cell transplantation. Patients and investigators were not masked to treatment assignment; however, an independent assessment panel was masked. The primary endpoint was the proportion of patients with a complete or unconfirmed complete response in the intention-to-treat (ITT) population at the end of treatment. Primary analyses of efficacy were based on the independent assessment panel's data review. The study is registered at ClinicalTrials.gov, number NCT00088530. FINDINGS: The ITT population comprised 70 patients randomly assigned to the pixantrone group and 70 to the comparator. Five patients (two in the pixantrone group and three in the comparator group) dropped out before receiving their study drug. 14 patients (20·0% [95% CI 11·4-31·3]) who received pixantrone achieved a complete or unconfirmed complete response at end of treatment compared with four patients (5·7% [1·6-14·0]) in the comparator group (p = 0·021). The most common grade 3 or 4 adverse events in patients given pixantrone were uncomplicated, non-cumulative neutropenia (28 [41·2%] of 68 patients vs 13 [19·4%] of 67 patients in the comparator group), leucopenia (16 [23·5%] vs five [7·5%]), and thrombocytopenia (eight [11·8%] vs seven [10·4%]). INTERPRETATION: Pixantrone, given as a single-agent salvage therapy in heavily pretreated patients with relapsed or refractory aggressive non-Hodgkin lymphoma, is efficacious and tolerable. It could be a treatment option for patients whose aggressive non-Hodgkin lymphoma has failed to respond to at least two previous chemotherapy regimens. FUNDING: Cell Therapeutics, Inc.
+DO  - 10.1016/S1470-2045(12)70212-7     ZM  - svm     ZS  - 3.2825514394913085     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - Comparative Study
+AN  - rayyan-986594422
+TI  - Randomised comparison of two B-cell purging protocols for patients with B-cell non-Hodgkin lymphoma: in vivo purging with rituximab versus ex vivo purging with CliniMACS CD34 cell enrichment device.
+Y1  - 2006
+Y2  - 1
+T2  - British journal of haematology
+SN  - 0007-1048 (Print)
+J2  - Br J Haematol
+VL  - 132
+IS  - 1
+SP  - 42-55
+AU  - van Heeckeren WJ
+AU  - Vollweiler J
+AU  - Fu P
+AU  - Cooper BW
+AU  - Meyerson H
+AU  - Lazarus HM
+AU  - Simic A
+AU  - Laughlin MJ
+AU  - Gerson SL
+AU  - Koç ON
+AV  - Department of Medicine, Case Western Reserve University and University Hospitals of Cleveland, OH, USA.
+UR  - https://pubmed.ncbi.nlm.nih.gov/16371019/
+LA  - eng
+CY  - England
+KW  - Adult
+KW  - Aged
+KW  - Antibodies, Monoclonal/*therapeutic use
+KW  - Antibodies, Monoclonal, Murine-Derived
+KW  - Antigens, CD34/analysis
+KW  - Antineoplastic Agents/*therapeutic use
+KW  - Bone Marrow Purging/*methods
+KW  - Feasibility Studies
+KW  - Female
+KW  - Hematopoietic Stem Cell Mobilization/methods
+KW  - Humans
+KW  - Immunomagnetic Separation/methods
+KW  - Leukapheresis/methods
+KW  - Lymphoma, B-Cell/drug therapy/*therapy
+KW  - Male
+KW  - Middle Aged
+KW  - Peripheral Blood Stem Cell Transplantation/*methods
+KW  - Rituximab
+KW  - Lymphoma, Non-Hodgkin
+KW  - Cathartics
+KW  - Hodgkin Disease
+AB  - We investigated the feasibility, safety and efficacy of two B-cell purging methods in patients with CD20+ non-Hodgkin lymphoma (NHL) receiving autologous stsem cell transplantation. Myeloid and immune recoveries between the methods were compared. Twenty-seven patients were randomised to either in vivo purging with rituximab or ex vivo purging by CD34+ cell selection. Both purging methods were efficient at eliminating B-cells in infusates. When compared with in vivo purging, ex vivo purging was associated with CD34+ cell loss and delayed median neutrophil (10 d vs. 11 d) and platelet (12.5 d vs. 17 d) count recoveries. Lymphocyte recovery was similar in both groups, but immunoglobulin recovery was delayed after in vivo purging. Late-infectious complications were few in both arms. At a median follow-up of 27 months, 2-year probabilities of event-free survival (EFS) rates were 81% for in vivo purging and 76% for ex vivo purging (P = 0.66). When compared with 53 unpurged patients, all 27 purged patients had improved 3-year probabilities of overall survival (89% vs. 70%, P = 0.014) and a trend for improved EFS (78% vs. 57%, P = 0.075). In conclusion, although both purging methods were feasible and safe, rituximab purging was superior as it did not impair CD34+ cell mobilisation and was associated with faster myeloid recovery. Further studies are needed to determine whether rituximab purging is more effective than the use of unpurged autografts.
+DO  - 10.1111/j.1365-2141.2005.05827.x     ZM  - svm     ZS  - 0.513370991533064     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986595779
+TI  - TREATMENT OF RELAPSED, REFRACTORY DIFFUSE LARGE B CELL LYMPHOMA
+Y1  - 2021
+T2  - Hematology, Transfusion and Cell Therapy
+SN  - 2531-1387
+VL  - 43
+AU  - Pekguc E.
+AU  - Ferhanoglu B.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=2015456316
+LA  - English
+PB  - Elsevier Editora Ltda
+CY  - Netherlands
+KW  - advanced cancer
+KW  - aged
+KW  - antineoplastic activity
+KW  - autologous stem cell transplantation
+KW  - B cell lymphoma
+KW  - B lymphocyte
+KW  - *cancer combination chemotherapy
+KW  - cancer patient
+KW  - cancer prognosis
+KW  - *cancer recurrence
+KW  - chemotherapy
+KW  - chimeric antigen receptor T-cell
+KW  - clinical assessment
+KW  - clinical trial
+KW  - comorbidity
+KW  - conference abstract
+KW  - controlled study
+KW  - *diffuse large B cell lymphoma
+KW  - drug combination
+KW  - drug megadose
+KW  - drug safety
+KW  - drug therapy
+KW  - female
+KW  - follow up
+KW  - gene expression
+KW  - gene expression profiling
+KW  - germinal center
+KW  - histology
+KW  - histopathology
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - major clinical study
+KW  - male
+KW  - metabolism
+KW  - neurotoxicity
+KW  - nonhodgkin lymphoma
+KW  - outcome assessment
+KW  - phase 2 clinical trial
+KW  - prognosis
+KW  - prospective study
+KW  - randomized controlled trial
+KW  - *relapse
+KW  - remission
+KW  - salvage therapy
+KW  - surgery
+KW  - T lymphocyte
+KW  - antibody drug conjugate
+KW  - bendamustine
+KW  - blinatumomab
+KW  - CD19 antigen
+KW  - CD20 antigen
+KW  - CD3 antigen
+KW  - cyclophosphamide
+KW  - cyclophosphamide plus doxorubicin plus prednisolone plus rituximab plus vincristine
+KW  - doxorubicin
+KW  - endogenous compound
+KW  - lenalidomide
+KW  - lisocabtagene maraleucel
+KW  - loncastuximab tesirine
+KW  - new drug
+KW  - prednisolone
+KW  - rituximab
+KW  - selinexor
+KW  - tafasitamab
+KW  - vincristine
+KW  - Lymphoma, Large B-Cell, Diffuse
+KW  - Lymphoma, B-Cell
+KW  - Lymphoma, T-Cell
+AB  - DLBCL represent almost 30% of all non-Hodgkin's lymphoma cases. More than 60% can be cured with R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine and prednisolone) chemoimmunotherapy. Patients not responding to R-CHOP often have a poor outcome, particularly those with disease refractory to frontline or subsequent therapies. Approximately 10-15% of patients treated with R-CHOP have primary refractory disease (incomplete response or relapse within 6 months after treatment) and additional 20-25% will relapse after an initial response, typically within the first 2 years. Patients with late relapses (>2 years after treatment) have better prognosis. Patients who are eligible to curative therapy should undergo full restaging to fully assess the status of their disease and to assess prognosis. A repeat biopsy at the time of relapse should strongly be considered to ensure that an alternate histology is not present, as an indolent lymphoma has been reported on repeat biopsy in approximately 17% of cases with late relapses. Gene expression profiling has delineated two distinct molecular subtypes of DLBCL: germinal center B-cell like (GCB) and activated B-cell like (ABC); 10-15% of cases are unclassifiable. Detailed analysis of molecular aberrations have led to proposals of new unique, genetically defined subtypes beyond the cell of origin. Transplant-eligible patients. Treatment with high-dose chemoimmunotherapy and autologous stem-cell transplantation (ASCT) offers the best chance of cure in patients with chemotherapy sensitive relapsed or refractory DLBCL, but due to advanced age and coexisting medical conditions only half of such patients are considered transplantation candidates. Approximately 50% of patients respond to initial salvage therapy and then undergo ASCT, with an overall cure rate of 25 to 35%. Management of transplant-ineligible patients. While some elderly fit patients may be eligible to ASCT and exhibit comparable outcomes to younger patients, the majority will have comorbidities that will prevent intensive chemo-immunotherapeutic approach. Few prospective trials have been conducted in elderly patients with relapsed/refractory DLBCL. The combination of R-GEMOX and R-bendamustine have been used for paliative purposes. For these cases, new approaches are warranted and new FDA approved drugs will be discussed on new drugs session. CAR-T cell therapy represents a major paradigm shift in the management of relapsed or refractory DLBCL. Three products, axicabtagene ciloleucil (axi-cel), tisagenlecleusil (tisa-cel) and lisocabtagene maraleucel (liso-cel) are FDA-approved as third line treatment of DLBCL and are commercially available. In pivotal studies, axi-cel, tisa-cel and liso-cel have been associated with overall and complete response rates in the range of 52-82% and 40-54%, respectively, among patients with R/R aggressive B-cell lymphoma. All three agents had characteristic toxicity profile with severe (grade > 3) CRS in 1-22% of patients, and severe (grade > 3) neurotoxicity in 12-28% of patients. Long-term outcome of ZUMA-1 trial recently published and 4 year OS is 41%, median OS is 25.8 months (17), on the other hand in Juliet trial, 5 year PFS is 31%. Novel therapies. Despite the advance of CAR-T cell therapy, novel therapies are needed. Several agents are FDA-approved for the treatment of R/R DLBCL. Polatuzumab-Bendamustin-Rituksimab has received approval based of randomised phase 2 trial involving transplantation ineligible patients with significant improvement rates of complete metabolic response, PFS and OS as compared with BR alone. Selinexor has also received approval for patients with R/R DLBCL who have received at least two lines of therapy, as a phase 2 study has shown modest single-agent acitivity. Tafasitamab is a humanised anti-CD19 monoclonal antibody with augmented Fc gama receptor afinity. Results from a phase 2 study of tafasitamab combined with lenalidomide showed efficacy, leading to regulatory approval for patients DLBCL ineligible to transplantation. Bispesific antibodies (bsAbs) refers to an antibody that has binding specificities for two different antigens. A variety of bsAbs are currently under development as therapy for B-cell lymphoma. These bsAbs target CD20 on B-cell and engage T-cells by CD3 in a 1:1 or 2:1 CD20:CD3 Fab format. In general, CRS and neurotoxicity are significantly less frequent than observed with CD-19 directed or blinatumomab therapies. In R/R DLBCL, ORR range from 37 to 90% with CRR from 19 to 55%. However, follow-up for these new bsAbs is short and the durability of responses remains to be established. Loncastuximab tesirine is a CD-19 directed antibody-drug conjugate. It has substantial single-agent antitumour activity and produces durable responses with an acceptible safety profile. 145 patients were enrolled with diagnosis of R/R DLBCL including high-risk characteristics for poor prognosis such as double-hit, triple-hit, transformed or primary refractory DLBCL. ORR was 48% with 24% CR rate, potencially offering a new therapeutic option for heavily pre-treated patients with R/R DLBCL.Copyright © 2021
+DO  - https://dx.doi.org/10.1016/j.htct.2021.10.950     ZM  - svm     ZS  - 0.46857463774809593     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986595832
+TI  - Donor lymphocyte infusion after T-cell depleted reduced intensity conditioning haematopoietic stem cell transplant is safe and has significant clinical activity
+Y1  - 2017
+T2  - Bone Marrow Transplantation
+SN  - 1476-5365
+VL  - 52
+AU  - Nagra S.
+AU  - Balassa K.
+AU  - Novitzky-Basso I.
+AU  - Dalessandro-Pereira T.
+AU  - Jenkin P.
+AU  - Cook M.
+AU  - Malladi R.
+AU  - Danby R.
+AU  - Peniket A.
+AU  - Craddock C.
+AU  - Rocha V.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed18&NEWS=N&AN=621290277
+LA  - English
+PB  - Nature Publishing Group
+CY  - S. Nagra, Department of Haematology, Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom
+KW  - acute graft versus host disease
+KW  - adult
+KW  - *allogeneic hematopoietic stem cell transplantation
+KW  - allograft
+KW  - aplasia
+KW  - cancer recurrence
+KW  - cancer survival
+KW  - *CD3+ T lymphocyte
+KW  - chimera
+KW  - controlled study
+KW  - *donor lymphocyte infusion
+KW  - drug therapy
+KW  - female
+KW  - follow up
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - in vivo study
+KW  - long term survival
+KW  - lymphocyte count
+KW  - major clinical study
+KW  - male
+KW  - minimal residual disease
+KW  - monitoring
+KW  - multivariate analysis
+KW  - overall survival
+KW  - randomized controlled trial
+KW  - recurrent disease
+KW  - *reduced intensity conditioning
+KW  - relapse
+KW  - sibling
+KW  - T cell depletion
+KW  - toxicity
+KW  - alemtuzumab
+KW  - CD3 antigen
+KW  - endogenous compound
+KW  - conference abstract
+KW  - Lymphocytes
+KW  - Stem Cell Transplantation
+KW  - Tissue Donors
+AB  - Introduction In vivo T-cell depletion is increasingly integrated into RIC regimens as a strategy to reduce the risk of GVHD. However, this manoeuvre is associated with an increased incidence of mixed T cell chimerism which may increase the risk of disease relapse. DLI is commonly administered to achieve full donor T cell chimerism (FDTC) and treat relapse, however, it can be complicated by potentially severe and lifethreatening GVHD. There remain few studies looking at the toxicity or efficacy of DLI in the setting of a T cell depleted RIC allograft. Patients and Methods We studied the outcomes of 222 adult patients receiving DLI (matched sibling donor n=121 and adult unrelated donor n=101[21 antigenic HLA mismatches]) following allo-HSCT between 1999 and 2014 at three large UK centres. Indications for transplant were AML (n=75), NHL (n=28), CLL (n=23), MDS (n=21), CML (n=19), HL (n=16), other MPN (n=15), MM (n=14) and ALL (n=11). Most patients received a fludarabine based RIC regimen (n=200) and 204 received additional in vivo T cell depletion utilising either Alemtuzumab (n=200) or ATG (n= 4). Patients received between 1-6 (median 2) doses of DLI. The first dose of DLI was infused at a median of 283 days post-transplant (48-4510). 110 patients received DLI pre-emptively as treatment of MDTC (<95% CD3+ donor cells). 112 patients received DLI for relapse with 58 receiving prior additional cytotoxic therapy. The total dose of DLI varied between 0.1 and 215x106 CD3+ T cells (median total dose 1x107). The median follow up after administration of first DLI was 26 months (5-6152 days). Result(s): Toxicity: Grade II-IV and III-IV GvHD occurred in 36 (16%) and 23 (10%) of patients respectively, at a median of 44 days after DLI. 10 (5%) of patients experienced fatal GvHD. In multivariate analysis the initial dose of CD3+ cells (p=0.013) predicted the development of aGVHD. Of note, patient: donor HLA disparity did not increase the risk or severity of GVHD. Five patients (2.3%) developed graft aplasia. Efficacy: The 1 and 5 year overall survival (OS) after DLI administration was 78 and 59%, respectively. Of the 110 patients receiving DLI for treatment of MDTC, 103 had chimerism data following the last DLI available, of whom 85% achieved full donor T cell chimerism. In multivariate analysis the only factor predicting acquisition of FDTC was the dose of DLI. Timing of DLI post-transplant or absolute lymphocyte count did not determine response. The 5-yr OS of patients achieving FDTC as compared to those who did not was 81% versus 43%. Of patients achieving FDTC, 20% subsequently relapsed. 112 patients received DLI for cytogenetic/molecular (n=31) or morphological (n=81) disease relapse. 22/31 (71%) and 23/81 (28%) achieved CR in the above subgroups. In multivariate analyses the only factor that significantly influenced survival was whether CR was achieved. Patients achieving CR after DLI had a 5-yr OS of 96%, compared to 15% in patients who did not (p<0.001). Conclusion In this largest study to date, we conclude that DLI is an effective treatment option for MDTC and associated with a low risk of severe GVHD. Whilst survival in patients relapsing post-allograft is poor, DLI has the capacity to deliver long term survival in up to 70% of patients treated early. Our data provide the basis for a randomised clinical trial of DLI in MDTC and support the use of post-transplant monitoring of residual disease permitting pre-emptive delivery of DLI when it is most effective.     ZM  - svm     ZS  - 0.7477904563530594     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986596193
+TI  - Is physical exercise possible in patients with critical cytopenia undergoing intensive chemotherapy for acute leukaemia or aggressive lymphoma?
+Y1  - 2009
+T2  - International Journal of Hematology
+SN  - 0925-5710
+VL  - 90
+IS  - 2
+AU  - Elter T.
+AU  - Stipanov M.
+AU  - Heuser E.
+AU  - Von Bergwelt-Baildon M.
+AU  - Bloch W.
+AU  - Hallek M.
+AU  - Baumann F.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed11&NEWS=N&AN=50590485
+LA  - English
+PB  - Springer Japan (1-11-11 Kudan-kita, Chiyoda-ku, No. 2 Funato Bldg., Tokyo 102-0073, Japan)
+CY  - T. Elter, Department of Hematology and Oncology, University of Cologne, Cologne, Germany. E-mail: thomas.elter@uk-koeln.de
+KW  - *acute granulocytic leukemia/dt [Drug Therapy]
+KW  - *acute granulocytic leukemia/th [Therapy]
+KW  - acute granulocytic leukemia/dt [Drug Therapy]
+KW  - *acute lymphoblastic leukemia/th [Therapy]
+KW  - adult
+KW  - article
+KW  - cancer chemotherapy
+KW  - clinical article
+KW  - clinical trial
+KW  - controlled study
+KW  - drug megadose
+KW  - *exercise
+KW  - female
+KW  - *follicular lymphoma/th [Therapy]
+KW  - *Hodgkin disease/th [Therapy]
+KW  - human
+KW  - lymphoma/dt [Drug Therapy]
+KW  - male
+KW  - multiple cycle treatment
+KW  - *pancytopenia
+KW  - peripheral blood stem cell transplantation
+KW  - treatment response
+KW  - antineoplastic agent/ct [Clinical Trial]
+KW  - cyclophosphamide/ct [Clinical Trial]
+KW  - cyclophosphamide/cb [Drug Combination]
+KW  - cyclophosphamide/dt [Drug Therapy]
+KW  - cytarabine/ct [Clinical Trial]
+KW  - cytarabine/dt [Drug Therapy]
+KW  - doxorubicin/ct [Clinical Trial]
+KW  - doxorubicin/cb [Drug Combination]
+KW  - etoposide/ct [Clinical Trial]
+KW  - etoposide/cb [Drug Combination]
+KW  - etoposide/dt [Drug Therapy]
+KW  - methotrexate/ct [Clinical Trial]
+KW  - methotrexate/dt [Drug Therapy]
+KW  - prednisone/ct [Clinical Trial]
+KW  - prednisone/cb [Drug Combination]
+KW  - vincristine/ct [Clinical Trial]
+KW  - vincristine/cb [Drug Combination]
+KW  - Aggression
+AB  - Patients undergoing intensive chemotherapy for acute leukaemia or aggressive lymphoma not only suffer from the direct side effects of chemotherapy such as infections due to long-lasting immuno-suppression and aplasia, but also from marked fatigue and the inability to do normal physical activity. Furthermore, especially in patients with severe thrombocytopenia, anaemia and leukopenia, doctors recommend abstaining from physical exercise due to the risk of potential bleeding and tissue damage. The normally recommended cutoff level to perform exercise is 50,000 platelets per microliter or haemoglobin of 8 g/dl. This leads to a vicious cycle of loosing physical strength and muscles with subsequent development of treatment-related cachexia and an increased treatment mortality. As number of publications focus on the importance of physical exercise in patients with solid tumours, increasing evidence is found that suggests positive effects on major clinical endpoints such as rate of infection, quality of life and even relapse rate and overall survival. With this work, we intended to address whether intense supervised ergometer training is feasible in patients with severe pancytopenia and whether it has any effect on patients undergoing high-dose chemotherapy. Furthermore, this study was initiated as the groundwork for a large phase III randomised trial. © 2009 The Japanese Society of Hematology.
+DO  - https://dx.doi.org/10.1007/s12185-009-0376-4     ZM  - svm     ZS  - 1.1106989618404548     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986591424
+TI  - Cognitive complaints by hematopoietic cell transplantation recipients and change in neuropsychological performance over time
+Y1  - 2021
+T2  - Supportive Care in Cancer
+SN  - 1433-7339
+VL  - 29
+IS  - 1
+AU  - LaLonde L.
+AU  - Votruba K.
+AU  - Kentor R.
+AU  - Gatza E.
+AU  - Choi S.W.
+AU  - Hoodin F.
+UR  - ["https://link.springer.de/link/service/journals/00520/index.htm", "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2004805180"]
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+CY  - F. Hoodin, Department of Psychiatry, University of Michigan, 1500 E. Medical Center Drive, F6321 UH-South, Ann Arbor, MI 48109-5295, United States. E-mail: fhoodin@med.umich.edu
+KW  - acute myeloid leukemia/th [Therapy]
+KW  - adult
+KW  - anxiety
+KW  - article
+KW  - attention
+KW  - chronic myeloid leukemia/th [Therapy]
+KW  - clinical article
+KW  - cognition
+KW  - *cognitive defect
+KW  - controlled clinical trial (topic)
+KW  - controlled study
+KW  - cross-sectional study
+KW  - daytime somnolence
+KW  - depression
+KW  - female
+KW  - *graft recipient
+KW  - *hematopoietic stem cell transplantation
+KW  - Hodgkin disease/th [Therapy]
+KW  - human
+KW  - learning
+KW  - longitudinal study
+KW  - male
+KW  - middle aged
+KW  - multiple myeloma/th [Therapy]
+KW  - myelodysplastic syndrome/th [Therapy]
+KW  - *neuropsychological test
+KW  - nonhodgkin lymphoma/th [Therapy]
+KW  - patient-reported outcome
+KW  - physical well-being
+KW  - priority journal
+KW  - problem solving
+KW  - psychomotor activity
+KW  - refractory anemia with excess blasts/th [Therapy]
+KW  - sleep quality
+KW  - task performance
+KW  - velocity
+KW  - working memory
+AB  - Purpose: Hematopoietic stem cell transplant (HSCT) recipients are at risk for cognitive decline. Cross-sectional studies show patients' complaints of cognitive decline do not correlate well with concurrently measured objective neuropsychological performance, but rather with emotional variables and health-related quality of life. This longitudinal study investigated whether patient self-report of cognitive status would be concordant with objectively measured neuropsychological performance after accounting for change from their own pre-transplant objective baseline. Method(s): Pre-HSCT and at 30 and 100 days post-HSCT, 46 patients underwent computerized neuropsychological testing (CogState) and completed surveys assessing patient-reported cognitive complaints, emotional symptoms (depression, anxiety), sleep quality, daytime sleepiness, and physical and functional well-being. Correlations were calculated between cognitive complaints and neuropsychological performance (at each time-point and across time-points), as well as all other patient-reported variables. Result(s): Patient-reported cognitive complaints were largely independent of concurrently assessed objective neuropsychological performance. Uniquely, our longitudinal data demonstrated significant medium to large effect size associations between subjective cognitive complaints post-HSCT with objectively measured change from pre-HSCT in attention, visual learning, and working memory (p <.05-.01). Subjective cognitive complaints post-HSCT were also associated with depression, anxiety, daytime sleepiness and physical well-being (p <.05-.001). Conclusion(s): Patients appear better able to assess their cognitive functioning relative to their own baseline and changes across time rather than relative to community norms. Thus, patient complaints of cognitive compromise justify further in-depth neuropsychological, emotional, and functional assessment. Future research into relationships between cognitive complaints and neuropsychological performance should account for changes in performance over time.Copyright © 2020, Springer-Verlag GmbH Germany, part of Springer Nature.
+DO  - https://dx.doi.org/10.1007/s00520-020-05458-1     ZM  - svm     ZS  - 0.5665419547611528     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986596243
+TI  - Do We Need Maintenance with Anti-CD20 Antibody after First-Line Therapy for All Newly Diagnosed Follicular Lymphoma Patients?
+Y1  - 2018
+T2  - Clinical Lymphoma, Myeloma and Leukemia
+SN  - 2152-2669
+VL  - 18
+AU  - Federico M.
+AU  - Tarantino V.
+AU  - Filonenko K.
+AU  - Dondi A.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=2001055693
+LA  - English
+PB  - Elsevier Inc.
+CY  - Netherlands
+KW  - adult
+KW  - autologous bone marrow transplantation
+KW  - cancer chemotherapy
+KW  - *cancer patient
+KW  - cancer prognosis
+KW  - cancer recurrence
+KW  - cancer size
+KW  - cancer staging
+KW  - cancer survival
+KW  - chromosome translocation
+KW  - clinical assessment
+KW  - clinical trial
+KW  - conference abstract
+KW  - controlled study
+KW  - drug combination
+KW  - drug safety
+KW  - drug therapy
+KW  - drug toxicity
+KW  - England
+KW  - female
+KW  - *follicular lymphoma
+KW  - follow up
+KW  - gene rearrangement
+KW  - hairdresser
+KW  - hematopoietic stem cell transplantation
+KW  - human
+KW  - human cell
+KW  - maintenance therapy
+KW  - male
+KW  - mantle cell lymphoma
+KW  - meta analysis
+KW  - metabolism
+KW  - minimal residual disease
+KW  - multicenter study (topic)
+KW  - non-inferiority trial
+KW  - outpatient
+KW  - overall survival
+KW  - phase 3 clinical trial (topic)
+KW  - physician
+KW  - polymerase chain reaction
+KW  - positron emission tomography-computed tomography
+KW  - predictive value
+KW  - progression free survival
+KW  - prospective study
+KW  - protein function
+KW  - quality of life
+KW  - randomized controlled trial (topic)
+KW  - remission
+KW  - retreatment
+KW  - risk assessment
+KW  - treatment failure
+KW  - treatment response
+KW  - bendamustine
+KW  - *CD20 antibody
+KW  - cyclophosphamide
+KW  - doxorubicin
+KW  - endogenous compound
+KW  - fluorodeoxyglucose
+KW  - ibritumomab tiuxetan
+KW  - interferon
+KW  - prednisone
+KW  - protein bcl 2
+KW  - *rituximab
+KW  - unclassified drug
+KW  - vincristine
+KW  - Lymphoma
+KW  - Antibodies, Heterophile
+AB  - Introduction: Follicular lymphoma (FL) is one of the most common subtypes of lymphoma in Western countries, accounting for 10-20% of all newly diagnosed non-Hodgkin's lymphomas. Clinical course of FL is typically indolent, with impressive responses to initial treatments. Nevertheless, frequent relapses with shorter remission duration occur that need additional therapeutic interventions and increase the risk of drug resistance. Treatment options for treatment-naive or recurring follicular lymphoma patients are still controversial, ranging from watch and wait to hematopoietic stem-cell transplantation. When a treatment is indicated, chemotherapy is usually prescribed. In most recent years, the advent of anti CD20 monoclonal antibody Rituximab (R) has dramatically changed the approach to this disease, and immunochemotherapy is at present considered the standard of care for patients diagnosed with high tumor burden FL, leading at advances in Progression Free Survival ( PFS) and Overall Survival(OS)1-3. Discussion(s): In order to prolong remission duration, the use of maintenance strategies after the first treatment has been considered over a long time. The use of interferon was first evaluated, showing benefits in terms of duration of remission and survival4; however, the safety profile of the drug and the low manageability of treatment has led most physicians to abandon this treatment option. The availability of rituximab as an effective and low toxic single agent has suggested to explore the possibility to use it not only to improve efficacy of chemotherapy in first line therapy, but also to delay progression after initial treatment reflecting the ideal maintenance strategy which involve clinical benefit, good tolerance and convenient administration. The PRIMA trial clearly showed that rituximab maintenance in patients achieving a response to initial chemoimmunotherapy results in an improved outcome in terms of prolonged PFS and made a step forward in the management of patients with FL5. However, one important question that can be raised is whether this approach is really needed for all patients with FL or if some of them could benefit from a risk adapted maintenance strategy, intensifying treatment in those recognized at high risk of recurrence, and reducing it in patients at lower risk. For example, in patients with low tumor burden who received front line rituximab, the RESORT study clearly showed that retreatment with rituximab instead rituximab maintenance was associated with an excellent outcome (86% chemotherapy free at 3 years), lack of Quality of Life difference and fewer rituximab doses required. 6 Recently, response to therapy assessed either with fluorodeoxyglucose-positron emission tomography (PET) or with highly sensitive molecular techniques targeting the t(14;18) chromosomal translocation (Minimal residual disease - MRD) have been suggested as important prognostic factors and are both identified as pivotal tools to achieve the goal of personalized treatment. The predictive value of PET and MRD is clearly recognized based on a large bulk of published evidence, and might be used to better tailoring post induction treatment in patients achieving satisfactory response with rituximab containing regimens. Post-induction FDG-PET provides powerful prognostic information in FL. About 80-85% of patients achieve a complete metabolic response (CMR) following immunochemotherapy and have an excellent outcome irrespective of whether rituximab maintenance is given (~95% survival at 6 years). In contrast, the ~15-20% of patients who fail to achieve a CMR are expected to have a significantly worse outcome.7, 8 Several studies indicate that, regardless to the treatment administered, the absence in the bone marrow and peripheral blood of neoplastic cells bearing the bcl-2/IgH rearrangement during the follow-up was strongly associated with a reduced risk of recurrence, clearly suggesting the need for MRD detection in FL 9-12 In the year 2012 the Fondazione Italiana Linfomi (FIL) launched the prospective randomized FOLL12 trial, with the aim of verifying whether combining clinical response assessed on FDG-PET scan and molecular response measured through MRD detection could permit to single out patients at different risk of progression and to consequently modulate maintenance. In April, 2018 the planned accrual has been reached, with the accrual of 807 cases. Patients randomized to standard Arm received two years of rituximab maintenance according to the PRIMA schedule. Those in the experimental Arm and at low risk defined by post induction PET and MDR negativity, did not receive any further maintenance; however, 4 weekly doses of rituximab were allowed in case of MDR positivity during follow-up, for a maximum of three re-treatments. On the contrary, patients at high risk (post induction PET positive), received intensified maintenance with (90)Y Ibritumomab Tiuxetan followed by rituximab maintenance for 2 years. Some very preliminary analyses of the study will be presented at conference site. Conclusion(s): Despite rituximab maintenance has shown its beneficial effect in prolonging PFS, its ability in improving OS is still questionable. In this context we believe that the results of the FOLL12 study would provide a more rationale use of currently available diagnostic and therapeutic resources, thus offering the opportunity of better tailoring maintenance therapy in patients responding to first line chemoimmunotherapy. References: 1. Hiddemann W, Kneba M, Dreyling M, et al: Frontline therapy with rituximab added to the combination of cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) significantly improves the outcome for patients with advanced-stage follicular lymphoma compared with therapy with CHOP alone: R. Blood. 2005;106:3725-32. 2. Rummel MJ, Niederle N, Maschmeyer G, et al: Bendamustine plus rituximab versus CHOP plus rituximab as first-line treatment for patients with indolent and mantle-cell lymphomas: an open-label, multicentre, randomised, phase 3 non-inferiority trial. Lancet (London, England). 2013;381:1203-10. 3. Luminari S, Ferrari A, Manni M, et al: Long-Term Results of the FOLL05 Trial Comparing R-CVP Versus R-CHOP Versus R-FM for the Initial Treatment of Patients With Advanced-Stage Symptomatic Follicular Lymphoma. J Clin Oncol. 2018; 36:689-96. 4. Rohatiner AZS, Gregory WM, Peterson B, et al: Meta-analysis to evaluate the role of interferon in follicular lymphoma. J Clin Oncol. 2005; 23:2215-23. 5. Salles G, Seymour JF, Offner F, et al: Rituximab maintenance for 2 years in patients with high tumour burden follicular lymphoma responding to rituximab plus chemotherapy (PRIMA): a phase 3, randomised controlled trial. Lancet (London, England). 2011; 377:42-51. 6. Kahl BS, Hong F, Williams ME, et al: Rituximab extended schedule or re-treatment trial for low-tumor burden follicular lymphoma: eastern cooperative oncology group protocol e4402. J Clin Oncol. 2014; 32:3096-102. 7. Trotman J, Luminari S, Boussetta S, et al: Prognostic value of PET-CT after first-line therapy in patients with follicular lymphoma: a pooled analysis of central scan review in three multicentre studies. Lancet Haematol.2014; 1:e17-27. 8. Ladetto M, Lobetti-Bodoni C, Mantoan B, et al: Persistence of minimal residual disease in bone marrow predicts outcome in follicular lymphomas treated with a rituximab-intensive program. Blood. 2016; 122:3759-66. 9. Gribben JG, Neuberg D, Barber M, et al: Detection of residual lymphoma cells by polymerase chain reaction in peripheral blood is significantly less predictive for relapse than detection in bone marrow. Blood. 1994; 83:3800-07. 10. Freedman AS, Neuberg D, Mauch P, et al: Long-term follow-up of autologous bone marrow transplantation in patients with relapsed follicular lymphoma. Blood. 1999; 94:3325-33. 11. Johnson PW, Price CG, Smith T, et al: Detection of cells bearing the t(14;18) translocation following myeloablative treatment and autologous bone marrow transplantation for follicular lymphoma. J Clin Oncol. 1994; 12:798-805. 12. Rambaldi A, Lazzari M, Manzoni C, et al: Monitoring of minimal residual disease after CHOP and rituximab in previously untreated patients with follicular lymphoma. Blood. 2002; 99:856-62. Copyright © 2018
+DO  - https://dx.doi.org/10.1016/j.clml.2018.06.073     ZM  - svm     ZS  - 1.8384256592291146     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986592875
+TI  - Lymphoblastic lymphoma in adults: Clinical aspects and therapy
+Y1  - 1995
+T2  - FORUM - Trends in Experimental and Clinical Medicine
+SN  - 1121-8142
+VL  - 5
+IS  - 6
+AU  - Santini G.
+AU  - Pierluigi D.
+AU  - Congiu M.
+AU  - Soracco M.
+AU  - Spriano M.
+AU  - Nati S.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed5&NEWS=N&AN=26068267
+LA  - English
+PB  - Scuola Internazionale di Oncologia e Medicina Sperimentale (Via Martin Piaggio 17/6, Genova 16122, Italy)
+CY  - G. Santini, Divisione di Ematologia I, Ospedale San Martino, Largo R. Benzi 10, 16132 Genoa, Italy
+KW  - article
+KW  - autologous bone marrow transplantation
+KW  - cancer recurrence
+KW  - cancer survival
+KW  - clinical feature
+KW  - human
+KW  - intravenous drug administration
+KW  - *lymphoblastoma/dt [Drug Therapy]
+KW  - *lymphoblastoma/ep [Epidemiology]
+KW  - *lymphoblastoma/su [Surgery]
+KW  - *lymphoblastoma/th [Therapy]
+KW  - mediastinum
+KW  - oral drug administration
+KW  - prognosis
+KW  - recurrence risk
+KW  - remission
+KW  - antineoplastic agent/dt [Drug Therapy]
+KW  - *asparaginase/cb [Drug Combination]
+KW  - *asparaginase/dt [Drug Therapy]
+KW  - *cyclophosphamide/cb [Drug Combination]
+KW  - *cyclophosphamide/dt [Drug Therapy]
+KW  - cytarabine/cb [Drug Combination]
+KW  - cytarabine/dt [Drug Therapy]
+KW  - daunorubicin/cb [Drug Combination]
+KW  - daunorubicin/dt [Drug Therapy]
+KW  - doxorubicin/cb [Drug Combination]
+KW  - doxorubicin/dt [Drug Therapy]
+KW  - hydroxyurea/cb [Drug Combination]
+KW  - hydroxyurea/dt [Drug Therapy]
+KW  - lomustine/cb [Drug Combination]
+KW  - lomustine/dt [Drug Therapy]
+KW  - mercaptopurine/cb [Drug Combination]
+KW  - mercaptopurine/dt [Drug Therapy]
+KW  - methotrexate/cb [Drug Combination]
+KW  - methotrexate/dt [Drug Therapy]
+KW  - *prednisolone/cb [Drug Combination]
+KW  - *prednisolone/dt [Drug Therapy]
+KW  - tioguanine/cb [Drug Combination]
+KW  - tioguanine/dt [Drug Therapy]
+KW  - vincristine/cb [Drug Combination]
+KW  - vincristine/dt [Drug Therapy]
+KW  - Lymphoma
+AB  - Lymphoblastic lymphoma is a distinct sub-group of non-Hodgkin's lymphomas which the Working Formulation categorises as high grade malignancy. It is characterised at diagnosis by frequent mediastinal involvement. However, bone marrow and subsequent peripheral blood involvement are common. From a histologic and cytologic point of view it is identical to acute lymphoblastic leukaemia. Sequential chemotherapy has improved the prognosis of this lymphoma in terms of survival and disease free survival (DFS). However, there are a series of negative prognostic factors present at diagnosis which seem to reduce survival and DFS due to the high risk of relapse. For this reason, small groups of patients in complete remission were treated with high dose therapy and autologous bone marrow transplantation (ABMT) after conventional chemotherapy. An international randomised study is at present underway to determine the usefulness of ABMT for patients responding to front line therapy.     ZM  - svm     ZS  - 0.6408194136251374     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986593135
+TI  - Mosunetuzumab in Combination with Lenalidomide Has a Manageable Safety Profile and Encouraging Activity in Patients with Relapsed/ Refractory Follicular Lymphoma: Initial Results from a Phase Ib Study
+Y1  - 2022
+T2  - British Journal of Haematology
+SN  - 1365-2141
+VL  - 197
+AU  - Morschhauser F.
+AU  - Bishton M.
+AU  - Eyre T.A.
+AU  - Bachy E.
+AU  - Cartron G.
+AU  - Ysebaert L.
+AU  - Bobillo S.
+AU  - Gutierrez N.C.
+AU  - Budde E.
+AU  - Fox C.P.
+AU  - Knapp A.
+AU  - Yaqub M.
+AU  - Wei M.C.
+AU  - O'Hear C.
+AU  - Li H.
+AU  - Purev E.
+AU  - Townsend W.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=638004179
+LA  - English
+PB  - Blackwell Publishing Ltd
+CY  - W. Townsend, University College London Hospitals BRC Clinical Research Facility, London, United Kingdom
+KW  - adult
+KW  - *cancer combination chemotherapy
+KW  - *cancer patient
+KW  - *cancer recurrence
+KW  - cancer resistance
+KW  - cancer therapy
+KW  - case report
+KW  - cell therapy
+KW  - clinical article
+KW  - clinical trial
+KW  - complication
+KW  - conference abstract
+KW  - cytokine release syndrome
+KW  - drug combination
+KW  - *drug safety
+KW  - drug therapy
+KW  - drug withdrawal
+KW  - ECOG Performance Status
+KW  - febrile neutropenia
+KW  - female
+KW  - *follicular lymphoma
+KW  - hospitalization
+KW  - human
+KW  - human tissue
+KW  - intravenous drug administration
+KW  - male
+KW  - metabolism
+KW  - middle aged
+KW  - neutropenia
+KW  - oral drug administration
+KW  - outcome assessment
+KW  - phase 1 clinical trial
+KW  - phase 3 clinical trial
+KW  - positron emission tomography-computed tomography
+KW  - prophylaxis
+KW  - randomized controlled trial
+KW  - side effect
+KW  - surgery
+KW  - transplantation
+KW  - endogenous compound
+KW  - granulocyte colony stimulating factor
+KW  - hypertensive factor
+KW  - *lenalidomide
+KW  - *mosunetuzumab
+KW  - oxygen
+KW  - tocilizumab
+KW  - Recurrence
+AB  - Mosunetuzumab (M), a CD20xCD3 bispecific antibody, has demonstrated high and consistent response rates in high-risk relapsed/refractory (R/R) follicular lymphoma (FL) patients (pts), with early evidence of a favourable benefit/risk profile. Lenalidomide (Len) is clinically active in FL pts. M + Len offers potentially additive/ synergistic efficacy via potent immunomodulatory activity. We present data from an ongoing Phase Ib study (NCT04246086) evaluating safety and activity of M + Len in R/R FL pts. Pts with R/R FL (Grade [Gr] 1-3a) and >=1 prior systemic anti-cancer therapy were enrolled to receive 12 cycles of M + Len (Cycle [C]1 duration: 21 days; C2-12: 28 days). In C1, step-up doses of M (intravenous [IV] infusion) were given on Day (D)1 (1 mg), and D8 (2mg), with the target dose (30 mg) given on C1D15 and on D1 of C2-12. Len (20 mg) was administered orally on D1-21 of C2-12. No hospitalisation was mandated. Primary objective: to evaluate M + Len safety. Secondary objective: to assess response and long-term efficacy outcomes. Cytokine release syndrome (CRS) was reported using American Society for Transplantation and Cellular Therapy (ASTCT) criteria, responses were assessed with PET-CT using standard criteria. At data cut-off (31 May 2021) 27 pts were enrolled. The median age was 59 years (range: 31-79 years), 12 pts (44%) were male and Eastern Cooperative Oncology Group (ECOG) performance status was 0 (18 pts, 67%) or 1 (9 pts, 33%). The median number of prior therapy lines was 1 (1-4); three pts (11%) had disease progression (PD) <24 months (m) from the start of first-line therapy. Sixteen pts (59%) had been on study for 0-3 m, 8 (30%) for 3-6 m, 2 (7%) for 6-9 m and 1 for >9 m. Twenty pts (74%) experienced >=1 adverse event (AE) of any Gr. The most common AE was CRS (8 pts, 30%). Gr3-4 AEs and serious AEs occurred in eight pts (30%) each. There were no Gr5 AEs. AEs relating to M and Len occurred in 20 (74%) and 10 pts (37%) respectively. No AEs led to the withdrawal of M or Len; two pts had M-related AEs leading to M dose delays, six pts (22%) had Len-related AEs leading to Len dose interruption and/or reduction. CRS events were Gr1 (7/8 pts) or Gr2 (1/8 pts). Six out of eight pts experienced CRS events in C1D1-7; two out of eight had Gr1 CRS events in C2. The median time to CRS onset was 1 day after the first dose (1-28 days); median duration was 3 days (2-5 days). All CRS events were resolved without sequelae. No pts required tocilizumab, ICU admission, high flow oxygen, or vasopressor support. Five pts (19%) reported 14 events of Gr3-4 neutropenia between D41 and 218, lasting 6-16 days, all resolved, with one pt receiving primary granulocyte colony-stimulating factor (G-CSF) prophylaxis and two pts receiving G-CSF treatment. No febrile neutropenia events occurred. The efficacy-evaluable population (13 pts) included all pts who had been assessed for response at any time on the study, withdrawn from treatment/study prior to reaching their first response assessment, or were on the study long enough to reach their first scheduled response assessment (planned per protocol for D15-21). The objective response rate at data cutoff was 92%. Complete (10 pts, 77%) and partial (2 pts, 15%) metabolic response (PMR) and stable disease (1 pt, 8%) were observed. One pt with initial PMR experienced PD after C8. M + Len appears to have an acceptable safety profile in R/R FL pts with >=1 prior therapy line and encouraging preliminary anti-lymphoma activity. These data support initiation of a randomised Phase III study of M + Len versus rituximab+Len.
+DO  - https://dx.doi.org/10.1111/bjh.18134     ZM  - svm     ZS  - 2.4534388518838486     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986598422
+TI  - Follicular lymphoma: Final results of the randomized evaluation of curative radiotherapy in limited stage nodal disease
+Y1  - 2013
+T2  - Strahlentherapie und Onkologie
+SN  - 0179-7158
+VL  - 189
+AU  - Engelhard M.
+AU  - Unterhalt M.
+AU  - Hansmann M.L.
+AU  - Stuschke M.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed14&NEWS=N&AN=71362505
+LA  - English
+PB  - Urban und Vogel
+CY  - M. Engelhard, Universitatsklinikum Essen, Klinik fur Strahlentherapie, Essen, Germany
+KW  - *follicular lymphoma
+KW  - *radiotherapy
+KW  - neoplasm
+KW  - human
+KW  - relapse
+KW  - remission
+KW  - patient
+KW  - arm
+KW  - irradiation
+KW  - risk
+KW  - diagnosis
+KW  - large cell lymphoma
+KW  - histology
+KW  - survival
+KW  - aged
+KW  - toxicity
+KW  - diaphragm
+KW  - skin tumor
+KW  - sepsis
+KW  - heart infarction
+KW  - diseases
+KW  - progression free survival
+KW  - angiosarcoma
+KW  - uterine cervix
+KW  - stomach
+KW  - bladder
+KW  - esophagus
+KW  - breast cancer
+KW  - overall survival
+KW  - immunotherapy
+KW  - World Health Organization
+KW  - Hodgkin disease
+KW  - Radiotherapy
+AB  - Aims. Follicular lymphoma WHO grade I or II (FL) in early stage nodal disease can be treated effectively by radiotherapy alone. The extent of optimal target volumes remains controversial with a high rate of relapse (REL) out-field after Involved field irradiation, but higher toxicity and potentially risks of secondary neoplasia after large field techniques. Therefore, this study aimed to determine curative age-adapted irradiation volumes in younger [randomized trial (RD)] and standardized radiotherapy in elderly [prospective observation trial (OBS)] FL patients (pts). Methods. In FL stage I-II and limited stage III disease, pts<=65 years (ys) were randomized to Extended field (EF) or Total lymphatic irradiation (TLI), dose 30 Gy + boost 10 or 14 Gy. Pts aged 66-75 ys were treated with EF, all pts>75 ys with involved field (IF) radiotherapy. Results. A total of qualified 255 pts were recruited. In the RD trial, 202 pts were randomized to EF or TNI, median age 54 ys. In the OBS trial 53 pts, median age 70 ys, were treated with EF (79%) or IF (21%). At 5 ys after recruitment, overall survival of all pts is 97% at a median observation period of 77 months, relapse- (RFS) and progression-free survival (PFS) are 60% and 60% at six years. Complete remissions (CR) were 93%, REL were 33%, median interval 27 months. In the RD pts, significant differences emerge in favor of TNI vs. EF treatment with PFS p=0.002 and RFS p=0.03. REL developed predominantly as new manifestations (92%, 77% new site alone), more often out-of than in-field. REL were entirely nodal (76%). New sites were in 75% located on the opposing side of the diaphragm. REL-histologies, revealing transition into secondary diffuse large B-cell lymphoma (DLBCL) in 29% of biopsied pts (22% of all REL, 7% of all study pts), median 29 months from diagnosis. Secondary tumors were observed in 25 of all pts (10%) (8 EF-pts, 7 TNI-pts; 10 OBS trial-pts) and included AML/MDS (n=5), skin tumors (n=5), prostrate cancer (n=4), breast cancer (n=3), cancer of the oesophagus, the bladder, the stomach, the cervix uteri, angiosarcoma, Hodgkin's disease (<=2 cases each), at a median interval of 70 months. In the RD trial 14 pts (7%) died, 12/14 pts (86%) after progress/relapse and further diseases (8/9 in the EF, 4/5 in the TNI arm), and one each of myocardial infarction and sepsis. In the OBS trial three pts died (relapse/senile decay/MDS). Conclusions. In early stage nodal FL, standardized RT easily induced high rates of CR with excellent survival. In the randomised trial remission stability was significantly improved by TNI as opposed to EF, while the risk of secondary neoplasms was similar in both treatment arms. However, in the meantime, regional radiotherapy in combination with immunotherapy has been evaluated in FL and molecular and cytogenetic factors may contribute to the identification of patients for these newer treatment approaches.
+DO  - https://dx.doi.org/10.1007/s00066-013-0339-9     ZM  - svm     ZS  - 3.066850074786865     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
+TY  - JFULL
+AN  - rayyan-986591432
+TI  - Half-body irradiation in the combined therapy of disseminated lymphomas
+Y1  - 1990
+T2  - Meditsinskaia radiologiia
+SN  - 0025-8334
+VL  - 35
+IS  - 7
+AU  - Kindzel'skii L.P.
+AU  - Pozmogov A.I.
+AU  - Chernichenko V.A.
+AU  - Lisetskii V.A.
+AU  - Nikishin B.K.
+AU  - Sycheva T.V.
+AU  - Tomilina N.A.
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed4&NEWS=N&AN=20848912
+LA  - Russian
+CY  - L.P. Kindzel'skii
+KW  - adult
+KW  - article
+KW  - case report
+KW  - hemoperfusion
+KW  - *Hodgkin disease/rt [Radiotherapy]
+KW  - human
+KW  - male
+KW  - methodology
+KW  - multimodality cancer therapy
+KW  - *nonhodgkin lymphoma/rt [Radiotherapy]
+KW  - pathology
+KW  - radiation dose
+KW  - *radiotherapy
+KW  - remission
+KW  - Whole-Body Irradiation
+KW  - Lymphoma
+KW  - Hemibody Irradiation
+AB  - Half-body irradiation at a single dose of 400-800 cGy was delivered to patients with disseminated fast-growing types of lymphomas and large aggregates of tumors and vital dysfunction of the body (the compression syndrome). Active detoxification therapy including heparinization, hemodilution with enforced diuresis and hemosorption was performed to prevent the syndrome of acute tumor lysis and postradiation complications. This treatment modality resulted in the elimination of clinical manifestations of the compression syndrome, normalization of the body homeostasis, a considerable reduction of the volume of tumor aggregates on a short-term basis, entering the patients into a curable state; the 5-year follow-up results were evaluated.     ZM  - svm     ZS  - 0.3039440553402608     ZT  - sensitive     ZC  - 0.0691768267655864     ZR  - True     ZP  - -1
+ER  -
+
